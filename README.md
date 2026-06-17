@@ -50,9 +50,3 @@ This repo is a personal reference guide to macronutrient metabolism, written in 
 ## Disclaimer
 
 This content is for **general education**. It does not replace advice from a physician or registered dietitian. For medical issues such as insulin resistance, fatty liver, or supplements, consult a specialist.
-
----
-
-## License
-
-[CC BY 4.0](LICENSE) -- use freely, attribute the source.
