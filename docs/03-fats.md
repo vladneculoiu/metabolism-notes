@@ -37,7 +37,7 @@
 This is the real mechanism behind fat storage vs fat burning:
 
 | Enzyme | Role | Controlled by insulin |
-|---|---|---|
+| --- | --- | --- |
 | **LPL** (lipoprotein lipase) | Puts fat **INTO** adipocytes (storage) | Insulin **activates** it |
 | **HSL** (hormone-sensitive lipase) | Pulls fat **OUT OF** adipocytes (burning) | Insulin **blocks** it |
 
@@ -56,10 +56,11 @@ LOW insulin:
 ---
 
 ## The sugar + fat trap
+
 Fat alone is not stored aggressively. It becomes a problem in combination:
 
 | Food | What happens |
-|---|---|
+| --- | --- |
 | Nuts (mostly fat) | Insulin does not rise much -> burned or "ignored" |
 | Chocolate (fat + sugar) | Sugar raises insulin -> fat is stored |
 | Fries (starch + oil) | The perfect storage combination |
@@ -92,10 +93,11 @@ Final products: CO2 + water
 ---
 
 ## Stored fat: where and how
+
 Fat is stored in **adipocytes**, balloon-like cells filled with triglycerides, in several places:
 
 | Storage type | Where | Risk | Leaves |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Visceral** | Around organs (hard belly) | Very high | **First** when losing weight |
 | **Subcutaneous** | Under skin (soft belly, thighs) | Lower | **Last** when losing weight |
 | **Ectopic** | Liver, pancreas, heart | Warning sign | Early |

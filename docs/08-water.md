@@ -45,7 +45,7 @@ Total glycogen: ~500g -> binds ~1.5 L of water
 ### What happens on the scale
 
 | Situation | Scale | Reality |
-|---|---|---|
+| --- | --- | --- |
 | Start low-carb/fasting | Down 1-2 kg in a few days | Glycogen + water, NOT fat |
 | Eat carbs again | Up 1-2 kg | Glycogen + water, NOT fat |
 | Intense match + carb meal | Up the next day | Refilled glycogen + water |
@@ -56,6 +56,7 @@ Total glycogen: ~500g -> binds ~1.5 L of water
 ---
 
 ## Water and protein
+
 Protein digestion produces **urea**, a nitrogen waste product from deamination, eliminated in urine:
 
 ```text
@@ -98,7 +99,7 @@ Dehydration of 3%+
 ## How much to drink
 
 | Situation | Recommendation |
-|---|---|
+| --- | --- |
 | Baseline, sedentary | ~30 ml/kg body weight/day |
 | Physically active | +500-1000 ml above baseline |
 | High protein, 2g/kg+ | +500 ml above baseline |
@@ -142,7 +143,7 @@ A lot all at once right before -> running discomfort
 ## Summary: water's roles
 
 | Context | Role |
-|---|---|
+| --- | --- |
 | Fat burning | Final product: fat -> CO2 + water |
 | Lipolysis | Hydrolysis reaction, **requires water** |
 | Glycogen | Each gram binds ~3g water -> scale swings |

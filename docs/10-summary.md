@@ -65,7 +65,7 @@ Glucose  -> Protein        (essential amino acids are missing)
 ## Final comparison table
 
 | | Carbohydrates | Fats | Protein |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Break down into | Glucose | Fatty acids | Amino acids |
 | Raise insulin | A lot | Almost not at all | Moderately |
 | Buffer storage | Glycogen (~500g) | No, direct fat storage | No, ~100g pool |
@@ -81,7 +81,7 @@ Glucose  -> Protein        (essential amino acids are missing)
 ## Metabolic processes in one table
 
 | Process | What it does | Insulin |
-|---|---|---|
+| --- | --- | --- |
 | **Glycolysis** | Glucose -> ATP, immediate burning | -- |
 | **Glycogenesis** | Glucose -> glycogen, storage | High |
 | **Glycogenolysis** | Glycogen -> glucose, release | Low |

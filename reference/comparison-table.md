@@ -9,7 +9,7 @@
 ## Main comparison
 
 | Feature | Carbohydrates | Fats | Protein |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Break down into** | Glucose | Fatty acids + glycerol | Amino acids |
 | **Raise insulin** | A lot | Almost not at all | Moderately |
 | **Raise glucagon** | No | No | Yes, balancing effect |
@@ -25,7 +25,7 @@
 ## Storage
 
 | | Carbohydrates | Fats | Protein |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Storage form** | Glycogen | Triglycerides in adipocytes | Not stored |
 | **Storage capacity** | ~500g, finite | Practically unlimited | None |
 | **Where** | Liver + muscle | Adipocytes: subcutaneous, visceral | Small "pool": blood + cells |
@@ -37,7 +37,7 @@
 ## Burning
 
 | | Carbohydrates | Fats | Protein |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **How they burn** | Glycolysis -> ATP | Beta-oxidation -> ATP | Gluconeogenesis -> ATP |
 | **When they burn** | Intense effort, always some | Rest, light effort | Emergency, empty glycogen |
 | **Final products** | CO2 + water | CO2 + water | CO2 + water + urea |
@@ -48,7 +48,7 @@
 ## Insulin effect in detail
 
 | Food | Insulin response |
-|---|---|
+| --- | --- |
 | Sugar, juice, white bread | High, fast |
 | Brown rice, whole-grain pasta | Moderate-high |
 | Whole fruit | Moderate, fiber slows it |
@@ -62,7 +62,7 @@
 ## For recomposition: what to prioritize
 
 | Macro | Target | Reason |
-|---|---|---|
+| --- | --- | --- |
 | **Protein** | 2-2.2g/kg/day, distributed | Protects + builds muscle; not stored as fat |
 | **Carbohydrates** | Moderate, complex, around training | Glycogen for effort; limit at night/rest days |
 | **Fats** | Moderate, healthy | Hormones such as testosterone, satiety; avoid with sugar |
@@ -73,7 +73,7 @@
 ## Snacks: quick comparison
 
 | Snack | Insulin effect | Good for recomposition? |
-|---|---|---|
+| --- | --- | --- |
 | Biscuits, cookies | High | No |
 | Sweet "protein" bars | High, hidden sugar | No |
 | Sweet fruit: grapes, bananas | Moderate | Occasionally |
@@ -88,7 +88,7 @@
 ## Effort types and preferred fuel
 
 | Effort type | Main fuel | Glycogen needed? |
-|---|---|---|
+| --- | --- | --- |
 | Rest, sleep | Fat, ~60-70% | No |
 | Walking, light activity | Fat + glucose | No, muscle glycogen intact |
 | Moderate cardio, <60% max HR | Mix of fat + glucose | A little |

@@ -29,7 +29,7 @@ SMALL deficit -> slower fat loss
 ## Who recomposes most easily
 
 | Factor | Advantage |
-|---|---|
+| --- | --- |
 | **Beginner to lifting** | Biggest advantage, "newbie gains" |
 | **Has fat to lose**, 3+ kg | Large advantage: fat provides energy for building |
 | Returning after a break | Large advantage: muscle memory |
@@ -57,6 +57,7 @@ Absolute priority. **Distributed** across the day, not eaten in one meal:
 80kg body weight -> 160-176g protein/day
    Example: 4 meals x 40-44g protein
 ```
+
 Protein:
 
 - Protects muscle from catabolism in a deficit
@@ -85,7 +86,7 @@ Muscle building and recovery happen **during sleep**, not in the gym.
 ## Fuel by effort type
 
 | Situation | What burns | Muscle |
-|---|---|---|
+| --- | --- | --- |
 | Rest / light effort | Fat ~60-70% | Protected |
 | Intense effort + full glycogen | Glycogen, explosive | Protected |
 | Intense effort + empty glycogen | Some fat + **MUSCLE** | Attacked |
@@ -199,7 +200,7 @@ Recomposition is SLOW, slower than simple fat loss
 ### Indicators to track, not just scale weight
 
 | Indicator | What it shows |
-|---|---|
+| --- | --- |
 | **Waist circumference** | Visceral/abdominal fat loss |
 | **Mirror** | Tone and shape |
 | **Training weights** | Muscle gain |
@@ -207,6 +208,7 @@ Recomposition is SLOW, slower than simple fat loss
 | **Monthly photos** | Objective visual progress |
 
 ### Realistic timeline
+
 ```text
 1 month:   training improves, more strength
 2 months:  clothes feel different, waist decreases

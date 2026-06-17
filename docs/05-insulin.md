@@ -56,7 +56,7 @@ PHASE 4 -- BURNING (low insulin)
 ## How different foods raise insulin
 
 | Raises a lot | Raises moderately | Raises little/none |
-|---|---|---|
+| --- | --- | --- |
 | Sugar, juice, sweets | Brown rice, whole-grain bread | Meat, fish, eggs |
 | White bread, white pasta | Legumes: beans, lentils | Pure fats: oil, butter, avocado |
 | White rice, potatoes | Normal fruit: apple, orange | Non-starchy green vegetables |
@@ -77,7 +77,7 @@ Rice + chicken breast + veg   -> insulin rises moderately and remains stable
 ## Pancreas vs liver: common confusion
 
 | | Pancreas | Liver |
-|---|---|---|
+| --- | --- | --- |
 | **Role** | Sensor + commander | Executor |
 | **What it does** | Measures blood glucose, releases hormones | Stores or releases glucose |
 | **High hormone** | -> insulin (stores) | -> glycogenesis |
@@ -106,7 +106,7 @@ ALWAYS high insulin (sugar all day)
 ```
 
 | Situation | Lose fat? |
-|---|---|
+| --- | --- |
 | Deficit + elevated insulin a few hours/day | Yes |
 | Deficit + always elevated insulin | Yes, but harder |
 | No deficit + low insulin | No |
@@ -118,7 +118,7 @@ ALWAYS high insulin (sugar all day)
 ## What else blocks fat burning
 
 | Factor | Mechanism |
-|---|---|
+| --- | --- |
 | **Alcohol** | Highest burning priority because it is toxic -> fat burning stops |
 | **Poor sleep** | Higher cortisol, higher ghrelin (hunger), lower leptin (satiety), higher insulin resistance |
 | **Sedentary lifestyle** | Inactive muscles become insulin resistant -> chronically high insulin |

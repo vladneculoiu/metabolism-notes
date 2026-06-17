@@ -16,7 +16,7 @@
 ## Complete table
 
 | Process | What it does | Substrate -> Product | Activates when | Insulin |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Glycolysis** | Burns glucose for energy | Glucose -> ATP + CO2 + H2O | Always, more during effort | -- |
 | **Glycogenesis** | Stores glucose as glycogen | Glucose -> Glycogen | After meals, glucose surplus | High |
 | **Glycogenolysis** | Releases glucose from glycogen | Glycogen -> Glucose | Between meals, effort, fasting | Low |
@@ -65,7 +65,7 @@ Muscle proteolysis -> MUSCLE -> amino acids -> glucose  avoid
 ## Key enzymes
 
 | Enzyme | Role | Controlled by |
-|---|---|---|
+| --- | --- | --- |
 | **LPL** (lipoprotein lipase) | Puts fat **INTO** adipocytes | Insulin **activates** it |
 | **HSL** (hormone-sensitive lipase) | Pulls fat **OUT OF** adipocytes | Insulin **blocks** it |
 | **GLUT4** | Transports glucose into muscle | Insulin + muscle contraction |

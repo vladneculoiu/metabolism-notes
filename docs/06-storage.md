@@ -44,7 +44,7 @@ It empties:
 ## Direct comparison
 
 | | Liver glycogen | Muscle glycogen |
-|---|---|---|
+| --- | --- | --- |
 | Capacity | ~100g, small | ~300-400g, large |
 | For whom | **Whole body** | Only its own muscle |
 | Sends glucose into blood | **Yes** | **No** |
@@ -80,7 +80,7 @@ YES -> surplus -> FAT (lipogenesis)
 In the morning you are **not** completely empty:
 
 | Store | State on waking |
-|---|---|
+| --- | --- |
 | Liver glycogen | Partly empty, about 60-70% used during sleep |
 | Muscle glycogen | Almost full, because muscles do not work during sleep |
 
@@ -122,7 +122,7 @@ In adults, the number is relatively FIXED (~10-30 billion)
 They are an **active hormonal organ** and influence metabolism through hormones:
 
 | Hormone/substance | Effect |
-|---|---|
+| --- | --- |
 | **Leptin** | Signals "I am full" and regulates hunger |
 | **Adiponectin** | Improves insulin sensitivity |
 | **Inflammatory substances** | Secreted by visceral fat -> insulin resistance |
@@ -134,7 +134,7 @@ They are an **active hormonal organ** and influence metabolism through hormones:
 ## Types of adipocytes
 
 | Type | Color | Role |
-|---|---|---|
+| --- | --- | --- |
 | **White fat** | White/yellowish | Stores energy, most of your body fat |
 | **Brown fat** | Brownish | **Burns** energy to produce heat |
 | **Beige fat** | Intermediate | White fat that can become more "burning" with cold/exercise |
@@ -146,13 +146,14 @@ They are an **active hormonal organ** and influence metabolism through hormones:
 Distribution is decided by **genetics + hormones**, not local exercises:
 
 | Factor | Effect |
-|---|---|
+| --- | --- |
 | **Genetics** | The baseline pattern inherited from family |
 | **Testosterone** in men | Favors **abdominal** storage, the "apple" shape |
 | **Estrogen** in women | Favors **hips/thighs** storage, the "pear" shape |
 | **Cortisol** from stress | Favors dangerous **visceral** abdominal fat |
 
 ### Menopause
+
 Estrogen falls, so women often begin storing more fat around the abdomen, similar to men. This confirms the hormone's direct role.
 
 ---

@@ -106,6 +106,7 @@ Why it is rare:
 ---
 
 ## Protein and insulin
+
 Protein raises insulin **moderately**: less than carbohydrates, but not zero.
 
 ```text
@@ -120,7 +121,7 @@ Glucagon partly offsets the storage effect, so fat is not locked away as strongl
 ## When muscle catabolism appears
 
 | Situation | Muscle proteolysis risk |
-|---|---|
+| --- | --- |
 | Rest, enough protein | Minimal (~2-5% of energy) |
 | Intense effort + **full** glycogen | Low, glycogen covers it |
 | Intense effort + **empty** glycogen | **High**, body attacks muscle |

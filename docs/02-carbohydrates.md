@@ -34,7 +34,7 @@ Glucose -> mitochondria -> ATP
 Glucose does **not** go straight to fat storage. The real order is:
 
 | Priority | Destination | Who uses it |
-|---|---|---|
+| --- | --- | --- |
 | **#1** | Immediate energy | Brain (~120g/day), organs, cell maintenance -- nonstop |
 | **#2** | Glycogen refill | Liver + muscle, if there is room (~500g total) |
 | **#3** | Fat | Only the final surplus, after #1 and #2 are covered |
@@ -54,7 +54,7 @@ LIVER = executor
 ```
 
 | Situation | Pancreas | Liver |
-|---|---|---|
+| --- | --- | --- |
 | Blood glucose rises after a meal | Releases **insulin** | Stores glucose as glycogen |
 | Blood glucose falls between meals | Releases **glucagon** | Releases glucose from glycogen |
 
@@ -74,6 +74,7 @@ Apple juice  -> no fiber -> insulin rises sharply (= liquid sugar)
 ### Simple recognition test
 
 > *"Could I eat this in its natural form?"*
+>
 > - Raw sugar cane -> yes, it contains lots of fiber
 > - A teaspoon of white sugar -> instant, pure -> refined
 
@@ -97,7 +98,7 @@ Apple juice  -> no fiber -> insulin rises sharply (= liquid sugar)
 ## Glycogen: the storage system
 
 | | Liver glycogen | Muscle glycogen |
-|---|---|---|
+| --- | --- | --- |
 | Capacity | ~100g | ~300-400g |
 | For whom | **Whole body** | Only that specific muscle |
 | Can send glucose into blood | **Yes** | **No** |
@@ -109,12 +110,13 @@ Apple juice  -> no fiber -> insulin rises sharply (= liquid sugar)
 ### How long it takes to empty
 
 | Situation | Time |
-|---|---|
+| --- | --- |
 | Complete rest, no food | 24-36h |
 | Sleep (8h) | Empties **liver** glycogen because the liver maintains blood glucose |
 | Intense training (sprints, football) | 1-2h can empty much of **muscle** glycogen |
 
 ### How long it takes to refill after effort
+
 ```text
 Carbs after sport  -> full refill in ~24h
 No carbs           -> slow, partial refill from protein (~48-72h)

@@ -82,7 +82,7 @@ Glucose  -> Fat            (lipogenesis)
 Protein  -> Glucose        (gluconeogenesis)
 Protein  -> Fat            (only with a large excess)
 Fat      -> Ketones        (ketogenesis)
- Fat      -> Glucose        (ONLY glycerol, a tiny amount)
+Fat      -> Glucose        (ONLY glycerol, a tiny amount)
 Fat      -> Glycogen       (cannot happen)
 Glucose  -> Protein        (essential amino acids are missing)
 ```

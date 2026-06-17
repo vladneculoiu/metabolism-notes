@@ -45,7 +45,7 @@ Resistant -> high insulin -> less fat burning -> fat gain
 ### Causes
 
 | Cause | Mechanism |
-|---|---|
+| --- | --- |
 | Chronic sugar/refined carbs | Insulin always high -> cells become "saturated" |
 | Visceral belly fat | Releases inflammatory substances |
 | Sedentary lifestyle | Inactive muscles become resistant |
@@ -53,6 +53,7 @@ Resistant -> high insulin -> less fat burning -> fat gain
 | Genetics | Some people are predisposed |
 
 ### Possible signs, not a diagnosis
+
 - Stubborn belly fat, hard to lose
 - Frequent hunger and sugar cravings
 - Sleepiness after high-carb meals
@@ -71,7 +72,7 @@ Resistant -> high insulin -> less fat burning -> fat gain
 ### How it can be reversed
 
 | Intervention | Effect |
-|---|---|
+| --- | --- |
 | **Movement**, the strongest tool | Muscles absorb glucose without insulin; even walking after meals helps |
 | Reduce refined carbs | Fewer spikes -> cells regain sensitivity |
 | Fat loss, especially visceral | Less inflammation -> cells respond again |
@@ -140,11 +141,12 @@ Overwhelms the liver -> massive lipogenesis
 ### Types
 
 | Type | Cause |
-|---|---|
+| --- | --- |
 | **Alcoholic fatty liver** | Chronic alcohol intake |
 | **NAFLD** (non-alcoholic) | Sugar, fructose, calorie surplus, insulin resistance |
 
 > NAFLD, Non-Alcoholic Fatty Liver Disease, is now extremely common. It does not require alcohol; it comes from sugar and sweet drinks in the modern diet.
+
 ### How it worsens the whole system
 
 ```text
@@ -158,11 +160,12 @@ More lipogenesis -> more fatty liver
         
 ... toward type 2 diabetes without intervention
 ```
-
+<!-- markdownlint-disable MD024 -->
 ### How it can be reversed
+<!-- markdownlint-enable MD024 -->
 
 | Intervention | Impact |
-|---|---|
+| --- | --- |
 | **Remove sweet drinks/juice** | The biggest immediate impact |
 | Reduce sugar and fructose | Lowers liver fat production |
 | Calorie deficit + fat loss | Reduces visceral + liver fat |
