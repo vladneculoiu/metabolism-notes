@@ -1,20 +1,14 @@
 # Welcome
 
-> Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate, și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de masă musculară.
-
-***
+> _Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate, și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de masă musculară._
 
 ## Despre
 
 Acesta este un ghid personal de referință despre metabolismul macronutrienților, scris într-un limbaj accesibil dar riguros. Pornește de la întrebări simple precum „ce se întâmplă când mănânc?" și construiește spre mecanisme concrete: insulina, glicogenul, lipoliza și recompozitia.
 
 {% hint style="info" icon="user-astronaut" %}
-**Public țintă**
-
 Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, dincolo de reguli memorizate.
 {% endhint %}
-
-***
 
 ## Cuprins
 
@@ -31,15 +25,11 @@ Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, di
 | 09 | [Recompozitia corporală](docs/09-recompozitie.md)                                     | Aplicarea practică: cele 4 piloane                     |
 | 10 | [Rezumat final](docs/10-rezumat.md)                                                   | Harta completă + cele 5 idei de reținut                |
 
-***
-
 ## Referință rapidă
 
 * [**Glosar**](reference/glosar.md) — toți termenii tehnici, alfabetic
 * [**Procese metabolice**](reference/procese.md) — tabelul tuturor proceselor (`-geneză` / `-liză`)
 * [**Tabel comparativ**](reference/tabel-comparativ.md) — carbohidrați vs grăsimi vs proteine
-
-***
 
 ## Cele 5 idei centrale
 
@@ -48,8 +38,6 @@ Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, di
 3. **Proteinele sunt prioritatea**, mai ales în deficit: nu se stochează, practic nu îngrașă, și protejează mușchii.
 4. **Nu alegi de unde dispare grăsimea.** Genetica și hormonii decid; grăsimea abdominală pleacă ultima.
 5. **Mișcarea + cantitatea** sunt cele două pârghii reale.
-
-***
 
 ## Disclaimer
 
