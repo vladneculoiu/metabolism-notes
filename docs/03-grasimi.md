@@ -23,7 +23,7 @@ _LPL, HSL și de ce grăsimea singură nu este dușmanul_
 
 7. ARDERE (lipoliză → beta-oxidare):
    Trigliceride → acizi grași → mitocondrie → ATP
-   Produse finale: CO2 + apă (exhali o parte din grăsime)
+   Produse finale: CO2 + apă (expiri o parte din grăsime)
 ```
 
 ## Cele două enzime cheie
