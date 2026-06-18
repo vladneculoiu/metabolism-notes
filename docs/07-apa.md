@@ -6,113 +6,95 @@ _Rolul apei în ardere, stocare și fluctuațiile cântarului: mai important dec
 
 Când arzi grăsime sau glucoză, apa este unul din produsele finale:
 
-```text
-Grăsime  → beta-oxidare → ATP + CO2 + APĂ
-Glucoză  → glicoliză    → ATP + CO2 + APĂ
+```
+Grăsime → beta-oxidare → ATP + CO₂ + APĂ
+Glucoză → glicoliză    → ATP + CO₂ + APĂ
 ```
 
-{% hint style="warning" icon="head-side-brain" %}
-Când pierzi grăsime, o parte din acea grăsime devine literalmente apă, eliminată prin urină, transpirație și respirație, plus CO2 pe care îl expiri.
-{% endhint %}
+{% hint style="warning" icon="head-side-brain" %} Când pierzi grăsime, o parte din acea grăsime
+devine literalmente apă, eliminată prin urină, transpirație și respirație, plus CO2 pe care îl
+expiri. {% endhint %}
 
 ## Apa este necesară pentru arderea grăsimilor
 
-Lipoliza, descompunerea grăsimii, este o reacție de **hidroliză**. Hidro = apă.
+Lipoliza (descompunerea grăsimii) este o reacție de **hidroliză** — hidro = apă:
 
-```text
+```
 Trigliceride + APĂ → acizi grași + glicerol
-          fără apă → reacția este mai puțin eficientă
+         fără apă → reacția este mai puțin eficientă
 ```
 
-{% hint style="warning" icon="head-side-brain" %}
-Deshidratarea face lipoliza mai puțin eficientă, deci arderea grăsimilor este mai grea. Hidratarea **susține** arderea.
-{% endhint %}
+{% hint style="warning" icon="head-side-brain" %} Deshidratarea face lipoliza mai puțin eficientă,
+deci arderea grăsimilor este mai grea. Hidratarea **susține** arderea. {% endhint %}
 
 ## Apa și glicogenul: de ce fluctuează cântarul
 
-Cea mai practică lecție despre apă pentru pierderea de grăsime:
+Fiecare gram de glicogen leagă mai mulți grame de apă. Asta explică fluctuațiile zilnice de
+greutate:
 
-```text
-1g glicogen leagă ~3g APĂ
-Glicogen total: ~500g → leagă ~1,5 L de apă
-```
+| Situație                                  | Cântar           | Realitate                                 |
+| ----------------------------------------- | ---------------- | ----------------------------------------- |
+| Începi low-carb / post                    | Scade rapid      | Glicogen + apă eliberate — **nu grăsime** |
+| Mănânci carbohidrați din nou              | Crește rapid     | Glicogen + apă reținute — **nu grăsime**  |
+| Antrenament intens + masă cu carbohidrați | Crește a doua zi | Glicogen reumplut + apă                   |
 
-### Ce se întâmplă pe cântar
-
-| Situație                           | Cântar                      | Realitate                     |
-| ---------------------------------- | --------------------------- | ----------------------------- |
-| Începi low-carb/post               | Scade 1-2 kg în câteva zile | Glicogen + apă, NU grăsime    |
-| Mănânci carbohidrați din nou       | Crește 1-2 kg               | Glicogen + apă, NU grăsime    |
-| Meci intens + masă cu carbohidrați | Crește a doua zi            | Glicogen reumplut + apă       |
-| Meci fără carbohidrați după        | Scade mai mult              | Glicogen gol → mai puțină apă |
-
+<!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %}
-Fluctuațiile zilnice de 0,5-2 kg pe cântar sunt **aproape întotdeauna apă**, legate de glicogen, sare și hidratare. Schimbările reale de grăsime sunt lente: cel mult ~0,5 kg/săptămână în condiții bune.
+Fluctuațiile zilnice pe cântar sunt **aproape întotdeauna apă**, legate de glicogen, sare și
+hidratare — nu de grăsime reală. Grăsimea se schimbă lent, gradual.
 {% endhint %}
 
 ## Apa și proteinele
 
-Digestia proteinelor produce **uree**, un produs rezidual de azot din deaminare, eliminat în urină:
+Digestia proteinelor produce **uree** — produs rezidual de azot din deaminare, eliminat prin urină:
 
-```text
-Aminoacizi → deaminare → uree + energie
-                      eliminată de RINICHI
-                      necesită APĂ pentru eliminare
 ```
-
-{% hint style="warning" icon="head-side-brain" %}
-Cu un aport ridicat de proteine, 2g/kg+, ai nevoie de mai multă apă pentru ca rinichii să elimine ureea fără stres inutil.
-{% endhint %}
+Aminoacizi → deaminare → uree + energie
+                      → eliminată de RINICHI
+                      → necesită APĂ pentru eliminare
+```
 
 ## Apa și performanța
 
-```text
-Deshidratare de 1-2% din greutatea corporală
-   → performanța fizică scade 10-20%
+Chiar și o deshidratare ușoară reduce performanța fizică vizibil:
+
+```
+Deshidratare ușoară:
    → forță mai mică, oboseală mai rapidă
    → mușchii accesează glicogenul mai puțin eficient
 
-Deshidratare de 3%+
-   → concentrarea și coordonarea suferă
-   → risc de crampe crește
+Deshidratare moderată-severă:
+   → concentrare și coordonare afectate
+   → risc de crampe crescut
 ```
 
-### Test simplu de hidratare
+**Test simplu de hidratare:**
 
-```text
-Urină galben deschis     → bine hidratat
-Urină galben închis/portocalie → bea mai mult
-Urină complet transparentă   → poate exagerezi, rar o problemă
+```
+Urină galben deschis        → bine hidratat ✅
+Urină galben închis/portocalie → bea mai mult ⚠️
+Urină complet transparentă  → posibil exagerezi (rar o problemă)
 ```
 
 ## Hidratarea în jurul efortului
 
-### Înainte
+**Înainte:**
 
-```text
-2-3 ore înainte → bea liber, hidratează-te bine
-1 oră înainte   → moderat, înghițituri regulate
-15-20 min înainte → puțin, dacă ți-e sete
-Mult deodată chiar înainte → disconfort în alergare
+```
+Cu câteva ore înainte  → bea liber, hidratează-te bine
+Cu 1 oră înainte       → moderat, înghițituri regulate
+Cu 15-20 min înainte   → puțin, dacă ți-e sete
+Mult deodată chiar înainte → disconfort la alergare ❌
 ```
 
-### În timpul efortului
+**În timpul efortului:**
 
-- Ia **înghițituri mici și frecvente** în pauze, nu jumătate de sticlă deodată
-- Efort lung >60 min sau căldură → apă + **electroliți** cum ar fi sodiu și potasiu
-
-### După efort
-
+- Înghițituri mici și frecvente în pauze — nu jumătate de sticlă deodată
+- Efort lung sau în căldură → apă + **electroliți** (sodiu, potasiu) **După efort:**
 - Rehidratează treptat
 - Un vârf de sare în apă ajută la reținerea lichidelor și absorbție
 
-## Rezumat: rolurile apei
+**După efort:**
 
-| Context            | Rol                                               |
-| ------------------ | ------------------------------------------------- |
-| Arderea grăsimilor | Produs final: grăsime → CO2 + apă                 |
-| Lipoliza           | Reacție de hidroliză, **necesită apă**            |
-| Glicogenul         | Fiecare gram leagă ~3g apă → fluctuații pe cântar |
-| Proteinele         | Elimină ureea prin rinichi, necesitând apă        |
-| Sațietatea         | Reduce foamea și ajută deficitul caloric          |
-| Performanța        | Deshidratarea reduce forța și rezistența          |
+- Rehidratează treptat
+- Un vârf de sare în apă ajută la reținerea lichidelor și absorbție
