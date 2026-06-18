@@ -1,8 +1,6 @@
-# 10 -- Final Summary
+# Summary
 
 > The complete map + the 5 ideas to remember.
-
-[Recomposition](09-recomposition.md) | [Glossary](../reference/glossary.md)
 
 ---
 

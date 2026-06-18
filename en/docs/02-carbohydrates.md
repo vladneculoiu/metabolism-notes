@@ -1,8 +1,6 @@
-# 02 -- Carbohydrates
+# Carbohydrates
 
 > From fork to ATP: the full path of glucose through the body.
-
-[Basic Concepts](01-basic-concepts.md) | [Fats](03-fats.md)
 
 ---
 

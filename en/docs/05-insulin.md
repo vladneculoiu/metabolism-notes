@@ -2,8 +2,6 @@
 
 > The central switch that decides, for all macronutrients, whether you store or burn.
 
-[Protein](04-protein.md) | [Storage](06-storage.md)
-
 ---
 
 ## Insulin's role

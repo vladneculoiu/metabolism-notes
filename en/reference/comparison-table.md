@@ -1,8 +1,6 @@
-# Comparison Table -- Carbohydrates vs Fats vs Protein
+# Carbohydrates vs Fats vs Protein
 
 > All essential differences in one place.
-
-[Processes](processes.md) | [README](../README.md)
 
 ---
 

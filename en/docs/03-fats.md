@@ -1,8 +1,6 @@
-# 03 -- Fats
+# Chapter 3 - Fats
 
 > LPL, HSL, and why fat alone is not the enemy: the sugar + fat combination is the problem.
-
-[Carbohydrates](02-carbohydrates.md) | [Protein](04-protein.md)
 
 ---
 

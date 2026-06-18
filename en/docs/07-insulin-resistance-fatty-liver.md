@@ -2,8 +2,6 @@
 
 > How they appear, why they block fat loss, and how they can be reversed.
 
-[Storage](06-storage.md) | [Water](08-water.md)
-
 ---
 
 ## Insulin resistance

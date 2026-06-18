@@ -1,8 +1,6 @@
-# Metabolic Processes -- Quick Reference
+# Metabolic Processes - Quick Reference
 
 > All relevant metabolic processes in one table.
-
-[Glossary](glossary.md) | [Comparison Table](comparison-table.md)
 
 ---
 

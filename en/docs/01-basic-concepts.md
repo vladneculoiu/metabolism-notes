@@ -1,8 +1,6 @@
-# 01 -- Basic Concepts
+# Chapter 1 - Basic Concepts
 
 > The essential vocabulary and logic of metabolic processes: the foundation for everything that follows.
-
-[README](../README.md) | [Carbohydrates](02-carbohydrates.md)
 
 ---
 

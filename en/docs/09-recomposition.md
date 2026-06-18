@@ -2,8 +2,6 @@
 
 > Practical application: how to lose fat and gain muscle at the same time.
 
-[Water](08-water.md) | [Summary](10-summary.md)
-
 ---
 
 ## What recomposition is

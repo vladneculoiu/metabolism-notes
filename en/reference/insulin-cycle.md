@@ -2,7 +2,7 @@
 
 > ASCII reference map of the storage and burning cycle.
 
-[README](../../README.md) | [Insulin Chapter](../../docs/05-insulin.md)
+[README](../README.md) | [Insulin Chapter](../docs/05-insulin.md)
 
 ---
 
@@ -115,4 +115,4 @@ LYMPH -> BLOOD -> ADIPOCYTES
 
 ---
 
-[README](../../README.md) | [Insulin Chapter](../../docs/05-insulin.md)
+[README](../README.md) | [Insulin Chapter](../docs/05-insulin.md)

@@ -2,8 +2,6 @@
 
 > Water's role in burning, storage, and scale fluctuations: more important than it seems.
 
-[Insulin Resistance](07-insulin-resistance-fatty-liver.md) | [Recomposition](09-recomposition.md)
-
 ---
 
 ## Water is a final product of burning

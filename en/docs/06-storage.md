@@ -2,8 +2,6 @@
 
 > Liver, muscle, and adipocytes: how each works and what they decide about your body fat.
 
-[Insulin](05-insulin.md) | [Insulin Resistance](07-insulin-resistance-fatty-liver.md)
-
 ---
 
 ## The two glycogen stores

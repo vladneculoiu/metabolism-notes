@@ -2,8 +2,6 @@
 
 > Why it is not stored, how it protects muscle, and why consistent intake is mandatory.
 
-[Fats](03-fats.md) | [Insulin](05-insulin.md)
-
 ---
 
 ## The full path

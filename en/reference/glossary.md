@@ -2,8 +2,6 @@
 
 > All technical terms from the guide, alphabetically.
 
-[Summary](../docs/10-summary.md) | [Processes](processes.md)
-
 ---
 
 ## A
