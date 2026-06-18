@@ -49,4 +49,6 @@ Acesta este un ghid personal de referință despre metabolismul macronutriențil
 
 ## Disclaimer
 
+{% hint style="warning" %}
 Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau suplimente, consultați un specialist.
+{% endhint %}

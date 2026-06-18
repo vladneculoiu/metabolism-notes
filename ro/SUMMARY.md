@@ -13,7 +13,7 @@
 * [Rezistența la insulină & Ficatul gras](docs/07-rezistenta-la-insulina-ficat-gras.md)
 * [Apă](docs/08-apa.md)
 * [Recompozitia corporală](docs/09-recompozitie.md)
-* [Rezumat final](docs/10-rezumat.md)
+* [Rezumat](docs/10-rezumat.md)
 
 ## Referință
 

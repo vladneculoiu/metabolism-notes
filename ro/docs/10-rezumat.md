@@ -186,4 +186,6 @@ DEFICIT MIC (-200-300 kcal)
 
 ## Disclaimer
 
+{% hint style="warning" %}
 Acest conținut este pentru **educație generală**, bazat pe mecanisme fiziologice consacrate. Nu înlocuiește sfatul unui medic sau dietetician. Pentru situații medicale precum rezistență la insulină confirmată, ficat gras sau suplimente cu contraindicații, consultați întotdeauna un specialist.
+{% endhint %}

@@ -13,7 +13,7 @@
 * [Insulin Resistance & Fatty Liver](docs/07-insulin-resistance-fatty-liver.md)
 * [Water](docs/08-water.md)
 * [Body Recomposition](docs/09-recomposition.md)
-* [Final Summary](docs/10-summary.md)
+* [Summary](docs/10-summary.md)
 
 ## Reference
 

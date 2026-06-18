@@ -49,4 +49,6 @@ This is a personal reference guide to macronutrient metabolism, written in acces
 
 ## Disclaimer
 
+{% hint style="warning" %}
 This content is for **general education**. It does not replace advice from a physician or registered dietitian. For medical issues such as insulin resistance, fatty liver, or supplements, consult a specialist.
+{% endhint %}
