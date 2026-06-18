@@ -8,7 +8,9 @@ Reprezintă o referință despre metabolismul macronutrienților, scris într-un
 Pornește de la întrebări simple precum _ce se întâmplă când mănânc?_ și construiește spre mecanisme
 concrete: insulina, glicogenul, lipoliza și recompozitia.
 
-{% hint style="info" icon="user-astronaut" %} **Public**
+{% hint style="info" icon="user-astronaut" %}
+
+**Public**
 
 Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, dincolo de reguli memorizate.
 {% endhint %}
