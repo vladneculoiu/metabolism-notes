@@ -101,8 +101,11 @@ Insulină MEREU ridicată (zahăr toată ziua)
 | Deficit + insulină mereu ridicată         | ✅ Da, dar mai greu |
 | Fără deficit + insulină scăzută           | ❌ Nu               |
 
-{% hint style="warning" icon="head-side-brain" %} **Deficitul caloric este regula #1. Insulina
-influențează cât de ușor și rapid.** {% endhint %}
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+**Deficitul caloric este regula #1. Insulina
+influențează cât de ușor și rapid.** 
+{% endhint %}
 
 ## Ce altceva blochează arderea grăsimilor
 
@@ -115,5 +118,7 @@ influențează cât de ușor și rapid.** {% endhint %}
 | **Stres cronic**            | Cortizol → glicemie ridicată → insulină ridicată, chiar fără mâncare                |
 | **Îndulcitori artificiali** | Unii pot declanșa răspunsuri anticipatorii de insulină — controversat, nu universal |
 
-{% hint style="warning" icon="head-side-brain" %} **Ierarhie:** alcool → somn → stres → insulină
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+**Ierarhie:** alcool → somn → stres → insulină
 cronică → sedentarism. Rezolvă-le în această ordine. {% endhint %}
