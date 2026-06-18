@@ -12,18 +12,15 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Cuprins
 
-| #   | Capitol                                                                               | Descriere                                              |
-| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 01  | [Concepte de bază](docs/01-concepte-de-baza.md)                                       | Vocabular esențial + cele 4 procese fundamentale       |
-| 02  | [Carbohidrați](docs/02-carbohidrati.md)                                               | Traseul complet: de la masă la ardere                  |
-| 03  | [Grăsimi](docs/03-grasimi.md)                                                         | LPL, HSL și capcana zahăr + grăsime                    |
-| 04  | [Proteine](docs/04-proteine.md)                                                       | De ce nu se stochează și cum protejează mușchii        |
-| 05  | [Insulina](docs/05-insulina.md)                                                       | Comutatorul central al stocării și arderii             |
-| 06  | [Stocare](docs/06-stocare.md)                                                         | Ficat, mușchi, adipocite și unde se stochează grăsimea |
-| 07  | [Rezistența la insulină & Ficatul gras](docs/07-rezistenta-la-insulina-ficat-gras.md) | Cum apar și cum pot fi corectate                       |
-| 08  | [Apă](docs/08-apa.md)                                                                 | Rolul ei și de ce fluctuează greutatea                 |
-| 09  | [Recompozitia corporală](docs/09-recompozitie.md)                                     | Aplicarea practică: cele 4 piloane                     |
-| 10  | [Rezumat final](docs/10-rezumat.md)                                                   | Harta completă + cele 5 idei de reținut                |
+| #   | Capitol                                         | Descriere                                              |
+| --- | ----------------------------------------------- | ------------------------------------------------------ |
+| 01  | [Concepte de bază](docs/01-concepte-de-baza.md) | Vocabular esențial + cele 4 procese fundamentale       |
+| 02  | [Carbohidrați](docs/02-carbohidrati.md)         | Traseul complet: de la masă la ardere                  |
+| 03  | [Grăsimi](docs/03-grasimi.md)                   | LPL, HSL și capcana zahăr + grăsime                    |
+| 04  | [Proteine](docs/04-proteine.md)                 | De ce nu se stochează și cum protejează mușchii        |
+| 05  | [Insulina](docs/05-insulina.md)                 | Comutatorul central al stocării și arderii             |
+| 06  | [Stocare](docs/06-stocare.md)                   | Ficat, mușchi, adipocite și unde se stochează grăsimea |
+| 07  | [Apă](docs/08-apa.md)                           | Rolul ei și de ce fluctuează greutatea                 |
 
 ## Referință rapidă
 
