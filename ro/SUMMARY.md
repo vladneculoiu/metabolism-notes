@@ -1,6 +1,6 @@
 # Cuprins
 
-* [Bun venit](README.md)
+* [Welcome](README.md)
 
 ## Conținut
 
