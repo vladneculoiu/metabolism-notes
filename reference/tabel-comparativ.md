@@ -30,7 +30,7 @@ _Toate diferențele esențiale într-un singur loc_
 
 |                       | Carbohidrați             | Grăsimi                   | Proteine              |
 | --------------------- | ------------------------ | ------------------------- | --------------------- |
-| **Cum ard**           | Glicoliză -> ATP         | Beta-oxidare -> ATP       | Gluconeogeneză -> ATP |
+| **Cum ard**           | Glicoliză → ATP          | Beta-oxidare → ATP        | Gluconeogeneză → ATP  |
 | **Când ard**          | Efort intens, mereu ceva | Repaus, efort ușor        | Urgență, glicogen gol |
 | **Produse finale**    | CO2 + apă                | CO2 + apă                 | CO2 + apă + uree      |
 | **Necesită insulina** | Nu neapărat              | Necesită insulină SCĂZUTĂ | --                    |
@@ -55,4 +55,4 @@ _Toate diferențele esențiale într-un singur loc_
 | Mers, activitate ușoară        | Grăsime + glucoză     | Nu, glicogenul muscular intact |
 | Cardio moderat, <60% FCmax     | Mix grăsime + glucoză | Puțin                          |
 | Cardio intens, fotbal, sală    | Glicogen, dominant    | **Da**                         |
-| Sprint/efort exploziv, <10 sec | Fosfocreatină -> ATP  | **Da**, glicogenul urmează     |
+| Sprint/efort exploziv, <10 sec | Fosfocreatină → ATP   | **Da**, glicogenul urmează     |

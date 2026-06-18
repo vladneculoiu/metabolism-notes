@@ -52,7 +52,7 @@
 
 **Glicemia** = nivelul glucozei în sânge, măsurat în mg/dL sau mmol/L. Este o măsurătoare, nu o substanță separată.
 
-**Glicogeneza** = formarea glicogenului din glucoză; activată de insulină.
+**Glicogenogeneza** = formarea glicogenului din glucoză; activată de insulină.
 
 **Glicogenoliza** = descompunerea glicogenului în glucoză; activată de glucagon/adrenalină când glicemia scade.
 

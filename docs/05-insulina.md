@@ -30,7 +30,7 @@ FAZA 1 -- MĂNÂNCI
 FAZA 2 -- STOCARE (2-4h după masă)
    Insulina activează LPL → grăsimea în adipocite
    Insulina blochează HSL → grăsimea rămâne blocată
-   Glicogeneza → glucoză → glicogen
+   Glicogenogeneza → glucoză → glicogen
 
 FAZA 3 -- TRANZIȚIE (2-4h după masă)
    Glicemia scade → insulina scade treptat

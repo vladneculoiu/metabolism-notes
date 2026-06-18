@@ -15,7 +15,7 @@ _De la furculiță la ATP: traseul complet al glucozei prin corp_
 
 5. Insulina direcționează glucoza, în ordine de prioritate:
    - ENERGIE ACUM (creier, organe, mușchi)  prioritatea #1
-   - GLICOGENEZA → glicogen în ficat + mușchi
+   - Glicogenogeneza → glicogen în ficat + mușchi
    - LIPOGENEZA → grăsime (doar surplusul final)
 
 6. ARDERE (glicoliză):

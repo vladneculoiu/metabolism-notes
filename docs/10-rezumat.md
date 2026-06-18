@@ -62,35 +62,35 @@ Glucoză  -> Proteine        (lipsesc aminoacizii esențiali)
 
 ## Tabel comparativ final
 
-| | Carbohidrați | Grăsimi | Proteine |
-| --- | --- | --- | --- |
-| Se descompun în | Glucoză | Acizi grași | Aminoacizi |
-| Cresc insulina | Mult | Aproape deloc | Moderat |
-| Rezervă tampon | Glicogen (~500g) | Nu, stocare directă ca grăsime | Nu, ~100g pool |
-| Viteza de combustibil | Rapid | Lent | Lent, de rezervă |
-| Cel mai bun pentru | Efort intens | Repaus, efort ușor | Construcție musculară |
-| Stocat ca | Glicogen -> grăsime | Grăsime | Mușchi, fără rezervor |
-| Energie | 4 kcal/g | 9 kcal/g | 4 kcal/g |
-| Efect termic | ~5-10% | ~2-3% | ~25-30% |
-| Sațietate | Medie | Bună | **Cea mai mare** |
+|                       | Carbohidrați        | Grăsimi                        | Proteine              |
+| --------------------- | ------------------- | ------------------------------ | --------------------- |
+| Se descompun în       | Glucoză             | Acizi grași                    | Aminoacizi            |
+| Cresc insulina        | Mult                | Aproape deloc                  | Moderat               |
+| Rezervă tampon        | Glicogen (~500g)    | Nu, stocare directă ca grăsime | Nu, ~100g pool        |
+| Viteza de combustibil | Rapid               | Lent                           | Lent, de rezervă      |
+| Cel mai bun pentru    | Efort intens        | Repaus, efort ușor             | Construcție musculară |
+| Stocat ca             | Glicogen -> grăsime | Grăsime                        | Mușchi, fără rezervor |
+| Energie               | 4 kcal/g            | 9 kcal/g                       | 4 kcal/g              |
+| Efect termic          | ~5-10%              | ~2-3%                          | ~25-30%               |
+| Sațietate             | Medie               | Bună                           | **Cea mai mare**      |
 
 ---
 
 ## Procesele metabolice într-un singur tabel
 
-| Proces | Ce face | Insulina |
-| --- | --- | --- |
-| **Glicoliza** | Glucoză -> ATP, ardere imediată | -- |
-| **Glicogeneza** | Glucoză -> glicogen, stocare | Ridicată |
-| **Glicogenoliza** | Glicogen -> glucoză, eliberare | Scăzută |
-| **Lipogeneza** | Glucoză -> grăsime, stocare | Ridicată |
-| **Lipoliza** | Grăsime -> acizi grași, eliberare | Scăzută |
-| **Beta-oxidarea** | Acizi grași -> ATP, ardere | Scăzută |
-| **Gluconeogeneza** | Componente din proteine/grăsimi -> glucoză | Scăzută |
-| **Sinteza proteică** | Aminoacizi -> mușchi, construcție | Moderată |
-| **Proteoliza musculară** | Mușchi -> aminoacizi, catabolism | -- |
-| **Cetogeneza** | Grăsime -> corpi cetonici | Scăzută |
-| **Esterificarea** | Acizi grași -> trigliceride, stocare în adipocite | Ridicată |
+| Proces                   | Ce face                                           | Insulina |
+| ------------------------ | ------------------------------------------------- | -------- |
+| **Glicoliza**            | Glucoză -> ATP, ardere imediată                   | --       |
+| **Glicogenogeneza**      | Glucoză -> glicogen, stocare                      | Ridicată |
+| **Glicogenoliza**        | Glicogen -> glucoză, eliberare                    | Scăzută  |
+| **Lipogeneza**           | Glucoză -> grăsime, stocare                       | Ridicată |
+| **Lipoliza**             | Grăsime -> acizi grași, eliberare                 | Scăzută  |
+| **Beta-oxidarea**        | Acizi grași -> ATP, ardere                        | Scăzută  |
+| **Gluconeogeneza**       | Componente din proteine/grăsimi -> glucoză        | Scăzută  |
+| **Sinteza proteică**     | Aminoacizi -> mușchi, construcție                 | Moderată |
+| **Proteoliza musculară** | Mușchi -> aminoacizi, catabolism                  | --       |
+| **Cetogeneza**           | Grăsime -> corpi cetonici                         | Scăzută  |
+| **Esterificarea**        | Acizi grași -> trigliceride, stocare în adipocite | Ridicată |
 
 ---
 

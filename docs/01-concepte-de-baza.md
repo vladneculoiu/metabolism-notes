@@ -18,11 +18,11 @@ _Vocabularul esențial și logica proceselor metabolice_
 
 ## Cei trei macronutrienți: rolurile principale
 
-| Macronutrient    | Rol principal                                    | Energie  |
-| ---------------- | ------------------------------------------------ | -------- |
-| **Carbohidrați** | Combustibil rapid                                | 4 kcal/g |
-| **Grăsimi**      | Combustibil lent + structură hormonală           | 9 kcal/g |
-| **Proteine**     | Construcție și reparație: mușchi, organe, enzime | 4 kcal/g |
+| Macronutrient    | Rol principal                                      | Energie  |
+| ---------------- | -------------------------------------------------- | -------- |
+| **Carbohidrați** | Combustibil rapid                                  | 4 kcal/g |
+| **Grăsimi**      | Combustibil lent + structură hormonală și celulară | 9 kcal/g |
+| **Proteine**     | Construcție și reparație: mușchi, organe, enzime   | 4 kcal/g |
 
 ## Logica proceselor: `-geneză` vs `-liză`
 
@@ -35,7 +35,7 @@ Majoritatea numelor de procese metabolice urmează o logică simplă:
 
 | Proces                   | Ce face                                        | Când se activează                         |
 | ------------------------ | ---------------------------------------------- | ----------------------------------------- |
-| **Glicogeneza**          | Glucoză → glicogen (stocare)                   | După mese, insulină ridicată              |
+| **Glicogenogeneza**      | Glucoză → glicogen (stocare)                   | După mese, insulină ridicată              |
 | **Glicogenoliza**        | Glicogen → glucoză (eliberare)                 | Între mese, efort fizic                   |
 | **Lipogeneza**           | Glucoză/surplus → grăsime (stocare)            | Surplus caloric, glicogen plin            |
 | **Lipoliza**             | Grăsime → acizi grași (eliberare)              | Insulină scăzută, exerciții, post         |
@@ -52,7 +52,8 @@ Tot metabolismul se poate reduce la o singură întrebare: **cât de ridicată e
 ```
 INSULINĂ RIDICATĂ → modul STOCARE
    → glucoza și grăsimea intră în stocare
-   → grăsimea stocată nu poate ieși
+   → grăsimea stocată nu poate ieși din adipocite
+   → corpul arde în continuare, dar din glucoza disponibilă, nu din depozite
 
 INSULINĂ SCĂZUTĂ → modul ARDERE
    → grăsimea iese din stocare
@@ -70,11 +71,11 @@ Nu orice conversie este posibilă. Acestea sunt regulile fixe:
 ```
 Glucoză  → Grăsime         (lipogeneză)
 Proteine → Glucoză         (gluconeogeneză)
-Proteine → Grăsime         (doar cu un excces mare)
+Proteine → Grăsime         (doar cu un exces mare)
 Grăsime  → Cetone          (cetogeneză)
 Grăsime  → Glucoză         (DOAR glicerolul, o cantitate mică)
 Grăsime  → Glicogen        (nu se poate întâmpla)
-Glucoză  → Proteine        (lipsesc aminoacizii esențiali)
+Glucoză  → Proteine        (glucoza nu poate sintetiza aminoacizii esențiali necesari construcției musculare)
 ```
 
 Limitările cu cel mai mare impact practic:
