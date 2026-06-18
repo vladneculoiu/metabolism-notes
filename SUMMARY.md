@@ -17,4 +17,3 @@
 - [Glosar](reference/glosar.md)
 - [Procese metabolice](reference/procese.md)
 - [Tabel comparativ](reference/tabel-comparativ.md)
-- [Diagramă: Ciclul insulinei](reference/ciclu-insulina.md)
