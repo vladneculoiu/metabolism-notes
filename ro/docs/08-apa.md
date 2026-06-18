@@ -1,4 +1,4 @@
-# 08 -- Apă
+# Apă
 
 > Rolul apei în ardere, stocare și fluctuațiile cântarului: mai important decât pare.
 
@@ -148,7 +148,3 @@ Mult deodată chiar înainte -> disconfort în alergare
 | Proteinele | Elimină ureea prin rinichi, necesitând apă |
 | Sațietatea | Reduce foamea și ajută deficitul caloric |
 | Performanța | Deshidratarea reduce forța și rezistența |
-
----
-
-[Rezistența la insulină](07-rezistenta-la-insulina-ficat-gras.md) | [Recompozitie](09-recompozitie.md)

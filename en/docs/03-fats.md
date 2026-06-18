@@ -1,4 +1,4 @@
-# Chapter 3 - Fats
+# Fats
 
 > LPL, HSL, and why fat alone is not the enemy: the sugar + fat combination is the problem.
 
@@ -125,7 +125,3 @@ Crunches -> do NOT burn belly fat
 - **Slow** fuel, ideal at rest and during light/moderate effort
 - Most **calorie-dense**: 9 kcal/g, compared with 4 kcal/g for carbs and protein
 - They are **not the enemy**. The problem is sugar + fat + calorie surplus.
-
----
-
-[Carbohydrates](02-carbohydrates.md) | [Protein](04-protein.md)

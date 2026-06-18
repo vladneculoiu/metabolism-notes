@@ -68,7 +68,3 @@ Proteoliza musculară -> MUȘCHI -> aminoacizi -> glucoză  de evitat
 | **HSL** (lipaza hormono-sensibilă) | Scoate grăsimea **DIN** adipocite | Insulina o **blochează** |
 | **GLUT4** | Transportă glucoza în mușchi | Insulina + contracția musculară |
 | **Glucozo-6-fosfataza** | Permite eliberarea glucozei în sânge | Prezentă în **ficat**, nu în mușchi |
-
----
-
-[Glosar](glosar.md) | [Tabel comparativ](tabel-comparativ.md)

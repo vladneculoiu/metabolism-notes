@@ -138,7 +138,3 @@ Glucagonul compensează parțial efectul de stocare, astfel grăsimea nu este bl
 - Cel mai mare **efect termic**: arzi calorii doar digerându-le (~25-30%)
 - Energie: **4 kcal/g**
 - Țintă pentru recompozitie: **2-2,2g/kg greutate corporală/zi**, distribuit în 3-4 mese
-
----
-
-[Grăsimi](03-grasimi.md) | [Insulina](05-insulina.md)

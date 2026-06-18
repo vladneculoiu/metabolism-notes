@@ -126,7 +126,3 @@ Insulină ridicată CÂTEVA ORE/ZI + deficit caloric
 | **Îndulcitori artificiali** | Unii pot declanșa răspunsuri anticipatorii de insulină; controversat și nu universal |
 
 > **Ierarhie:** alcool -> somn -> stres -> insulină cronică -> sedentarism. Rezolvă-le în această ordine.
-
----
-
-[Proteine](04-proteine.md) | [Stocare](06-stocare.md)

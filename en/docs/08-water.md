@@ -1,4 +1,4 @@
-# 08 -- Water
+# Water
 
 > Water's role in burning, storage, and scale fluctuations: more important than it seems.
 
@@ -148,7 +148,3 @@ A lot all at once right before -> running discomfort
 | Protein | Removes urea through kidneys, requiring water |
 | Satiety | Reduces hunger and helps the calorie deficit |
 | Performance | Dehydration reduces strength and endurance |
-
----
-
-[Insulin Resistance](07-insulin-resistance-fatty-liver.md) | [Recomposition](09-recomposition.md)

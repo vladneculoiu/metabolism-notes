@@ -1,4 +1,4 @@
-# Chapter 1 - Basic Concepts
+# Basic Concepts
 
 > The essential vocabulary and logic of metabolic processes: the foundation for everything that follows.
 
@@ -89,7 +89,3 @@ Glucose  -> Protein        (essential amino acids are missing)
 >
 > - Fat does not refill glycogen -> intense effort while depleted can attack muscle
 > - Glucose does not build muscle -> carbohydrates do not replace protein
-
----
-
-[README](../README.md) | [Carbohydrates](02-carbohydrates.md)

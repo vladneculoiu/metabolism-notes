@@ -92,7 +92,3 @@
 | Moderate cardio, <60% max HR | Mix of fat + glucose | A little |
 | Intense cardio, football, gym | Glycogen, dominant | **Yes** |
 | Sprint/explosive effort, <10 sec | Phosphocreatine -> ATP | **Yes**, glycogen follows |
-
----
-
-[Processes](processes.md) | [README](../README.md)

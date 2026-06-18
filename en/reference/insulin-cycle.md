@@ -112,7 +112,3 @@ LYMPH -> BLOOD -> ADIPOCYTES
                            v
                        beta-oxidation -> ATP + CO2 + H2O
 ```
-
----
-
-[README](../README.md) | [Insulin Chapter](../docs/05-insulin.md)

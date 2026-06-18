@@ -1,4 +1,4 @@
-# 06 -- Storage
+# Storage
 
 > Liver, muscle, and adipocytes: how each works and what they decide about your body fat.
 
@@ -175,7 +175,3 @@ Crunches -> do NOT burn belly fat
 Squats   -> do NOT burn thigh fat
 Exercise burns fat from the WHOLE body, in the order genetics dictates
 ```
-
----
-
-[Insulin](05-insulin.md) | [Insulin Resistance](07-insulin-resistance-fatty-liver.md)

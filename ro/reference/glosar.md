@@ -189,7 +189,3 @@
 ## V
 
 **VLDL** (lipoproteine cu densitate foarte mică) -- „camioanele" de transport al trigliceridelor ale ficatului care mișcă grăsimea prin sânge spre adipocite. Valorile ridicate sugerează supraproducție hepatică de grăsime.
-
----
-
-[Rezumat](../docs/10-rezumat.md) | [Procese](procese.md)

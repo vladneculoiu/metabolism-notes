@@ -112,7 +112,3 @@ LIMFĂ -> SÂNGE -> ADIPOCITE
                            v
                        beta-oxidare -> ATP + CO2 + H2O
 ```
-
----
-
-[Cuprins](../README.md) | [Capitol Insulina](../docs/05-insulina.md)

@@ -177,7 +177,3 @@
 ## V
 
 **VLDL** (Very Low-Density Lipoprotein) -- the liver's triglyceride transport "trucks" that move fat through blood toward adipocytes. High values suggest hepatic overproduction of fat.
-
----
-
-[Summary](../docs/10-summary.md) | [Processes](processes.md)

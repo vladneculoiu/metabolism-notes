@@ -92,7 +92,3 @@
 | Cardio moderat, <60% FCmax | Mix grăsime + glucoză | Puțin |
 | Cardio intens, fotbal, sală | Glicogen, dominant | **Da** |
 | Sprint/efort exploziv, <10 sec | Fosfocreatină -> ATP | **Da**, glicogenul urmează |
-
----
-
-[Procese](procese.md) | [Cuprins](../README.md)

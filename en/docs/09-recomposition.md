@@ -1,4 +1,4 @@
-# 09 -- Body Recomposition
+# Body Recomposition
 
 > Practical application: how to lose fat and gain muscle at the same time.
 
@@ -212,7 +212,3 @@ Recomposition is SLOW, slower than simple fat loss
 2 months:  clothes feel different, waist decreases
 3-4 months: -3-4kg fat + 1-2kg muscle = clear visual transformation
 ```
-
----
-
-[Water](08-water.md) | [Summary](10-summary.md)

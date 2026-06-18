@@ -89,7 +89,3 @@ Glucoză  -> Proteine        (lipsesc aminoacizii esențiali)
 >
 > - Grăsimea nu reumple glicogenul -> efortul intens cu rezerve goale poate ataca mușchii
 > - Glucoza nu construiește mușchi -> carbohidrații nu înlocuiesc proteinele
-
----
-
-[Cuprins](../README.md) | [Carbohidrați](02-carbohidrati.md)

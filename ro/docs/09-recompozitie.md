@@ -212,7 +212,3 @@ Recompozitia este LENTĂ, mai lentă decât pierderea simplă de grăsime
 2 luni:     hainele se simt diferit, talia scade
 3-4 luni: -3-4kg grăsime + 1-2kg mușchi = transformare vizuală clară
 ```
-
----
-
-[Apă](08-apa.md) | [Rezumat final](10-rezumat.md)

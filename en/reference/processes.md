@@ -68,7 +68,3 @@ Muscle proteolysis -> MUSCLE -> amino acids -> glucose  avoid
 | **HSL** (hormone-sensitive lipase) | Pulls fat **OUT OF** adipocytes | Insulin **blocks** it |
 | **GLUT4** | Transports glucose into muscle | Insulin + muscle contraction |
 | **Glucose-6-phosphatase** | Allows glucose to be sent into blood | Present in **liver**, not muscle |
-
----
-
-[Glossary](glossary.md) | [Comparison Table](comparison-table.md)

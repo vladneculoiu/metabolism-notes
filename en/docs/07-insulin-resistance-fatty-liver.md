@@ -1,4 +1,4 @@
-# 07 -- Insulin Resistance and Fatty Liver
+# Insulin Resistance and Fatty Liver
 
 > How they appear, why they block fat loss, and how they can be reversed.
 
@@ -172,7 +172,3 @@ More lipogenesis -> more fatty liver
 | Intermittent fasting | Gives the liver time to burn internal fat |
 
 > Studies show that reducing sugar plus losing weight can reverse NAFLD in **a few months**. The liver has a high capacity to regenerate.
-
----
-
-[Storage](06-storage.md) | [Water](08-water.md)

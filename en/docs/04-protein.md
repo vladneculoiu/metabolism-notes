@@ -1,4 +1,4 @@
-# 04 -- Protein
+# Protein
 
 > Why it is not stored, how it protects muscle, and why consistent intake is mandatory.
 
@@ -138,7 +138,3 @@ Glucagon partly offsets the storage effect, so fat is not locked away as strongl
 - Highest **thermic effect**: you burn calories just digesting it (~25-30%)
 - Energy: **4 kcal/g**
 - Recomposition target: **2-2.2g/kg body weight/day**, split across 3-4 meals
-
----
-
-[Fats](03-fats.md) | [Insulin](05-insulin.md)

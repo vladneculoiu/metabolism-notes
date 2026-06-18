@@ -147,7 +147,3 @@ Every snack **restarts Phase 1**: high insulin, interrupted fat burning.
 - **Fast** fuel for intense/explosive effort: sprints, lifting
 - **Refined** = sharp spike; **complex** = slower, steadier absorption
 - Energy: **4 kcal/g**
-
----
-
-[Basic Concepts](01-basic-concepts.md) | [Fats](03-fats.md)

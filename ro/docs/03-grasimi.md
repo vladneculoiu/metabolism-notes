@@ -125,7 +125,3 @@ Abdomenele -> NU ard grăsimea abdominală
 - Combustibil **lent**, ideal în repaus și în timpul efortului ușor/moderat
 - Cele mai **dense caloric**: 9 kcal/g, față de 4 kcal/g pentru carbohidrați și proteine
 - **Nu sunt dușmanul**. Problema este zahărul + grăsimea + surplusul caloric.
-
----
-
-[Carbohidrați](02-carbohidrati.md) | [Proteine](04-proteine.md)

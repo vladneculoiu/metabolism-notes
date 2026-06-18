@@ -186,8 +186,7 @@ SMALL deficit (-200-300 kcal)
 
 ## Disclaimer
 
+{% hint style="warning" %}
+**Disclaimer:** Acest material are scop educativ și nu reprezintă sfat medical.
 This content is for **general education**, based on established physiological mechanisms. It does not replace advice from a physician or registered dietitian. For medical situations such as confirmed insulin resistance, fatty liver, or supplements with contraindications, always consult a specialist.
-
----
-
-[Recomposition](09-recomposition.md) | [Glossary](../reference/glossary.md)
+{% endhint %}

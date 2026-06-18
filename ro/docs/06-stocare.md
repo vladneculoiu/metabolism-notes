@@ -175,7 +175,3 @@ Abdomenele -> NU ard grăsimea abdominală
 Genuflexiunile -> NU ard grăsimea de pe coapse
 Exercițiile ard grăsime din ÎNTREG corpul, în ordinea pe care o dictează genetica
 ```
-
----
-
-[Insulina](05-insulina.md) | [Rezistența la insulină](07-rezistenta-la-insulina-ficat-gras.md)

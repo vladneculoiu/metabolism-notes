@@ -175,7 +175,3 @@ Mai multă lipogeneză -> mai mult ficat gras
 | Post intermitent | Oferă ficatului timp să ardă grăsimea internă |
 
 > Studiile arată că reducerea zahărului plus pierderea în greutate poate reversa NAFLD în **câteva luni**. Ficatul are o capacitate ridicată de regenerare.
-
----
-
-[Stocare](06-stocare.md) | [Apă](08-apa.md)

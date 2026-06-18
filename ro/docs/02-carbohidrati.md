@@ -147,7 +147,3 @@ Fiecare gustare **repornește Faza 1**: insulină ridicată, arderea grăsimilor
 - Combustibil **rapid** pentru efort intens/exploziv: sprinturi, ridicare de greutăți
 - **Rafinat** = vârf brusc; **complex** = absorbție mai lentă și mai uniformă
 - Energie: **4 kcal/g**
-
----
-
-[Concepte de bază](01-concepte-de-baza.md) | [Grăsimi](03-grasimi.md)

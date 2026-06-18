@@ -1,4 +1,4 @@
-# 05 -- Insulin
+# Insulin
 
 > The central switch that decides, for all macronutrients, whether you store or burn.
 
@@ -126,7 +126,3 @@ ALWAYS high insulin (sugar all day)
 | **Artificial sweeteners** | Some may trigger anticipatory insulin responses; controversial and not universal |
 
 > **Hierarchy:** alcohol -> sleep -> stress -> chronic insulin -> sedentary lifestyle. Fix them in that order.
-
----
-
-[Protein](04-protein.md) | [Storage](06-storage.md)
