@@ -67,9 +67,3 @@ Grăsime  → Glucoză    (DOAR glicerolul, cantitate mică)
 Grăsime  → Glicogen   (nu se poate întâmpla)
 Glucoză  → Proteine   (glucoza nu poate sintetiza aminoacizii esențiali)
 ```
-
-Limitările cu cel mai mare impact practic:
-
-- **Grăsime → Glicogen imposibil** → efort intens cu glicogen gol = corpul atacă mușchiul
-- **Glucoză → Proteine imposibil** → carbohidrații nu înlocuiesc proteinele
-- **Grăsime → Glucoză neglijabil** → grăsimea nu poate alimenta exploziile scurte de efort
