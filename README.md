@@ -1,12 +1,9 @@
 # Welcome
 
-Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate,
-și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de
-masă musculară.
-
-Reprezintă o referință despre metabolismul macronutrienților, scris într-un limbaj accesibil.
+Acesta este un ghid practic despre metabolismul macronutrienților, scris într-un limbaj accesibil.
 Pornește de la întrebări simple precum _ce se întâmplă când mănânc?_ și construiește spre mecanisme
-concrete: insulina, glicogenul, lipoliza și recompozitia.
+concrete: insulina, glicogenul, lipoliza dar si despre cum **carbohidrații, grăsimile și
+proteinele** sunt arse și stocate.
 
 <!-- prettier-ignore -->
 {% hint style="info" icon="user-astronaut" %} 
