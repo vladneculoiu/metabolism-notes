@@ -24,8 +24,11 @@ Trigliceride + APĂ → acizi grași + glicerol
          fără apă → reacția este mai puțin eficientă
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Deshidratarea face lipoliza mai puțin eficientă,
-deci arderea grăsimilor este mai grea. Hidratarea **susține** arderea. {% endhint %}
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %}
+Deshidratarea face lipoliza mai puțin eficientă, deci arderea grăsimilor este mai grea. 
+Hidratarea **susține** arderea. 
+{% endhint %}
 
 ## Apa și glicogenul: de ce fluctuează cântarul
 
@@ -90,9 +93,7 @@ Mult deodată chiar înainte → disconfort la alergare ❌
 **În timpul efortului:**
 
 - Înghițituri mici și frecvente în pauze — nu jumătate de sticlă deodată
-- Efort lung sau în căldură → apă + **electroliți** (sodiu, potasiu) **După efort:**
-- Rehidratează treptat
-- Un vârf de sare în apă ajută la reținerea lichidelor și absorbție
+- Efort lung sau în căldură → apă + **electroliți** (sodiu, potasiu)
 
 **După efort:**
 
