@@ -1,6 +1,6 @@
 # Welcome
 
-> _Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate, și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de masă musculară._
+> Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate, și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de masă musculară.
 
 ## Despre
 
