@@ -4,7 +4,7 @@
 
 ## Traseul complet
 
-```text
+```
 1. MĂNÂNCI (pâine, orez, fructe, zahăr)
 
 2. DIGESTIE → carbohidrații se descompun în GLUCOZĂ
@@ -33,11 +33,13 @@ Glucoza **nu** merge direct la stocare ca grăsime. Ordinea reală este:
 | **#2**     | Reumplere glicogen | Ficat + mușchi, dacă există loc                       |
 | **#3**     | Grăsime            | Doar surplusul final, după ce #1 și #2 sunt acoperite |
 
-> „Tamponul" zilnic pentru o persoană sedentară este în jur de ~200g de carbohidrați: energie + reumplere ficat fără a deveni grăsime. Activitatea fizică crește semnificativ acest tampon.
+{% hint style="info" icon="head-side-brain" %}
+„Tamponul" zilnic pentru o persoană sedentară este în jur de \~200g de carbohidrați: energie + reumplere ficat fără a deveni grăsime. Activitatea fizică crește semnificativ acest tampon.
+{% endhint %}
 
 ## Glicemia și insulina: termostatul
 
-```text
+```
 PANCREASUL = senzor (termostat)
    → detectează glicemia → trimite comenzi prin hormoni
 
@@ -56,23 +58,23 @@ Zahărul procesat industrial, lipsit de fibre, vitamine și minerale. Fără fib
 
 ### Diferența cheie: fibrele
 
-```text
+```
 Măr întreg   → fibrele încetinesc absorbția → insulina crește lent
 Suc de mere  → fără fibre → insulina crește brusc (= zahăr lichid)
 ```
 
 ### Test simplu de recunoaștere
 
-> _„Aș putea mânca asta în forma sa naturală?"_
+> _Aș putea mânca asta în forma sa naturală?_
 >
-> - Trestie de zahăr crudă → da, conține multe fibre
-> - O linguriță de zahăr alb → instant, pur → rafinat
+> * Trestie de zahăr crudă → da, conține multe fibre
+> * O linguriță de zahăr alb → instant, pur → rafinat
 
 ### Ce nu este zahăr rafinat
 
-- Fructe întregi, cu fibrele lor
-- Carbohidrați complecși: ovăz, orez brun, cartof dulce, leguminoase
-- Legume
+* Fructe întregi, cu fibrele lor
+* Carbohidrați complecși: ovăz, orez brun, cartof dulce, leguminoase
+* Legume
 
 ## Glicogenul: sistemul de stocare
 
@@ -83,7 +85,9 @@ Suc de mere  → fără fibre → insulina crește brusc (= zahăr lichid)
 | Se golește                     | Peste noapte, între mese      | Doar în timpul efortului         |
 | Se reumple                     | La orice masă cu carbohidrați | Doar după efortul care l-a golit |
 
-> **Cele două rezerve se umplu simultan și independent**, nu în secvență („mai întâi ficatul, apoi mușchii"). Fiecare extrage glucoză în funcție de cât de goală este. Doar după ce **ambele** sunt pline surplusul devine grăsime.
+{% hint style="info" icon="head-side-brain" %}
+**Cele două rezerve se umplu simultan și independent**, nu în secvență („mai întâi ficatul, apoi mușchii"). Fiecare extrage glucoză în funcție de cât de goală este. Doar după ce **ambele** sunt pline surplusul devine grăsime.
+{% endhint %}
 
 ### Cât durează să se golească
 
@@ -95,7 +99,7 @@ Suc de mere  → fără fibre → insulina crește brusc (= zahăr lichid)
 
 ### Cât durează să se reumple după efort
 
-```text
+```
 Carbohidrați după sport  → reumplere completă în ~24h
 Fără carbohidrați        → reumplere lentă, parțială din proteine (~48-72h)
 ```
@@ -104,7 +108,7 @@ Fără carbohidrați        → reumplere lentă, parțială din proteine (~48-7
 
 Fiecare gustare **repornește Faza 1**: insulină ridicată, arderea grăsimilor întreruptă.
 
-```text
+```
 8:00  mic-dejun → insulină ridicată
 10:30 gustare   → insulină ridicată DIN NOU (fără timp să ardă)
 13:00 prânz     → insulină ridicată
@@ -116,8 +120,8 @@ Fiecare gustare **repornește Faza 1**: insulină ridicată, arderea grăsimilor
 
 ## Particularități
 
-- Singurul macro cu o **rezervă tampon** dedicată: glicogenul
-- Cresc insulina **cel mai mult** dintre toți macronutrienții
-- Combustibil **rapid** pentru efort intens/exploziv: sprinturi, ridicare de greutăți
-- **Rafinat** = vârf brusc; **complex** = absorbție mai lentă și mai uniformă
-- Energie: **4 kcal/g**
+* Singurul macro cu o **rezervă tampon** dedicată: glicogenul
+* Cresc insulina **cel mai mult** dintre toți macronutrienții
+* Combustibil **rapid** pentru efort intens/exploziv: sprinturi, ridicare de greutăți
+* **Rafinat** = vârf brusc; **complex** = absorbție mai lentă și mai uniformă
+* Energie: **4 kcal/g**

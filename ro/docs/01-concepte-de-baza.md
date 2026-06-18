@@ -28,8 +28,8 @@
 
 Majoritatea numelor de procese metabolice urmează o logică simplă:
 
-- **`-geneză`** = _producere_: construire sau stocare
-- **`-liză`** = _descompunere_: eliberare sau ardere
+* **`-geneză`** = _producere_: construire sau stocare
+* **`-liză`** = _descompunere_: eliberare sau ardere
 
 ### Procesele fundamentale
 
@@ -49,7 +49,7 @@ Majoritatea numelor de procese metabolice urmează o logică simplă:
 
 Tot metabolismul se poate reduce la o singură întrebare: **cât de ridicată este insulina?**
 
-```text
+```
 INSULINĂ RIDICATĂ → modul STOCARE
    → glucoza și grăsimea intră în stocare
    → grăsimea stocată nu poate ieși
@@ -59,13 +59,15 @@ INSULINĂ SCĂZUTĂ → modul ARDERE
    → corpul arde din rezerve
 ```
 
-> Fiecare capitol următor revine la această regulă. Este firul care leagă totul împreună.
+{% hint style="info" icon="book-open-reader" %}
+Fiecare capitol următor revine la această regulă. Este firul care leagă totul împreună.
+{% endhint %}
 
 ## Ce se poate transforma în ce
 
 Nu orice conversie este posibilă. Acestea sunt regulile fixe:
 
-```text
+```
 Glucoză  → Grăsime         (lipogeneză)
 Proteine → Glucoză         (gluconeogeneză)
 Proteine → Grăsime         (doar cu un excces mare)
@@ -77,6 +79,6 @@ Glucoză  → Proteine        (lipsesc aminoacizii esențiali)
 
 > Limitările cu cel mai mare impact practic:
 >
-> - Grăsime → Glicogen → efort intens pe gol = atac muscular
-> - Glucoză → Proteine → carbohidrații nu înlocuiesc proteinele
-> - Grăsime → Glucoză → grăsimea nu alimentează exploziile scurte
+> * Grăsime → Glicogen → efort intens pe gol = atac muscular
+> * Glucoză → Proteine → carbohidrații nu înlocuiesc proteinele
+> * Grăsime → Glucoză → grăsimea nu alimentează exploziile scurte

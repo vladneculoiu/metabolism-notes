@@ -4,7 +4,7 @@
 
 ## Traseul complet
 
-```text
+```
 1. MĂNÂNCI (ulei, unt, ouă, nuci, avocado, carne)
 
 2. DIGESTIE → ACIZI GRAȘI + glicerol
@@ -35,7 +35,7 @@ Acesta este mecanismul real din spatele stocării versus arderii grăsimilor:
 | **LPL** (lipoproteina lipază)      | Pune grăsimea **ÎN** adipocite (stocare)   | Insulina o **activează** |
 | **HSL** (lipaza hormono-sensibilă) | Scoate grăsimea **DIN** adipocite (ardere) | Insulina o **blochează** |
 
-```text
+```
 INSULINĂ RIDICATĂ:
    LPL activă   → grăsimea intră în stocare
    HSL blocată  → grăsimea nu poate ieși
@@ -45,7 +45,9 @@ INSULINĂ SCĂZUTĂ:
    HSL activă   → grăsimea iese → ardere
 ```
 
-> **Rezumat:** insulina blochează adipocitele. Cât timp insulina este ridicată, grăsimea este prinsă înăuntru, chiar dacă ești în deficit caloric. În acel moment specific, nu arzi grăsimea stocată.
+{% hint style="info" icon="head-side-brain" %}
+Insulina blochează adipocitele. Cât timp insulina este ridicată, grăsimea este prinsă înăuntru, chiar dacă ești în deficit caloric. În acel moment specific, nu arzi grăsimea stocată.
+{% endhint %}
 
 ## Capcana zahăr + grăsime
 
@@ -58,11 +60,13 @@ Grăsimea singură nu se stochează agresiv. Devine o problemă în combinație:
 | Cartofi prăjiți (amidon + ulei)    | Combinația perfectă de stocare                  |
 | Avocado + salată (grăsime + fibre) | Insulină stabilă → arsă                         |
 
-> **Regula:** carbohidrații rafinați cresc insulina → insulina deschide adipocitele → grăsimea **din aceeași masă** intră direct în stocare.
+{% hint style="info" icon="head-side-brain" %}
+**Regula:** carbohidrații rafinați cresc insulina → insulina deschide adipocitele → grăsimea **din aceeași masă** intră direct în stocare.
+{% endhint %}
 
 ## Cum se arde grăsimea stocată
 
-```text
+```
 CONDIȚIE: insulina trebuie să fie SCĂZUTĂ
 
 Glucagonul/adrenalina semnalizează adipocitele
@@ -88,7 +92,9 @@ Grăsimea este stocată în **adipocite**, celule asemănătoare unor baloane pl
 | **Subcutanată** | Sub piele              | Mai scăzut       | **Ultima** când slăbești |
 | **Ectopică**    | Ficat, pancreas, inimă | Semnal de alarmă | Timpuriu                 |
 
-> **Paradoxul util:** cea mai periculoasă grăsime, cea viscerală, pleacă prima când slăbești, chiar dacă oglinda nu o arată imediat.
+{% hint style="info" icon="head-side-brain" %}
+Cea mai periculoasă grăsime, cea viscerală, pleacă prima când slăbești, chiar dacă oglinda nu o arată imediat.
+{% endhint %}
 
 ## De ce grăsimea abdominală pleacă ultima
 
@@ -96,16 +102,16 @@ Adipocitele abdominale au **mai mulți receptori alfa**, care încetinesc lipoli
 
 Nu poți forța zona cu exerciții locale, mitul _spot reduction_.
 
-```text
-Abdomenele → NU ard grăsimea abdominală
-               → întăresc mușchiul de sub ea
+```
+Abdomenele NU ard grăsimea abdominală
+→ întăresc mușchiul de sub ea
 → Grăsimea se arde din tot corpul, într-o ordine determinată genetic
 ```
 
 ## Particularități
 
-- **Nu** cresc insulina mult singure, principala diferență față de carbohidrați
-- **Nu au rezervă tampon**: sunt arse imediat sau stocate direct
-- Combustibil **lent**, ideal în repaus și în timpul efortului ușor/moderat
-- Cele mai **dense caloric**: 9 kcal/g, față de 4 kcal/g pentru carbohidrați și proteine
-- **Nu sunt dușmanul**. Problema este zahărul + grăsimea + surplusul caloric.
+* **Nu** cresc insulina mult singure, principala diferență față de carbohidrați
+* **Nu au rezervă tampon**: sunt arse imediat sau stocate direct
+* Combustibil **lent**, ideal în repaus și în timpul efortului ușor/moderat
+* Cele mai **dense caloric**: 9 kcal/g, față de 4 kcal/g pentru carbohidrați și proteine
+* **Nu sunt dușmanul**. Problema este zahărul + grăsimea + surplusul caloric.
