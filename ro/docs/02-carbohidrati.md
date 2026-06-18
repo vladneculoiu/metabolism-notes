@@ -1,6 +1,6 @@
 # Carbohidrați
 
-> De la furculiță la ATP: traseul complet al glucozei prin corp.
+> De la furculiță la ATP: traseul complet al glucozei prin corp
 
 ## Traseul complet
 
