@@ -81,7 +81,7 @@ Suc de mere → fără fibre → insulina crește brusc                   ❌
 | **Se reumple**               | La orice masă cu carbohidrați | După efortul care l-a consumat |
 
 <!-- prettier-ignore -->
-{% hint style="warning" icon="head-side-brain" %} 
+{% hint style="warning" icon="head-side-brain" %}
 **Cele două rezerve se umplu simultan și
 independent**, nu în secvență („mai întâi ficatul, apoi mușchii"). Fiecare extrage glucoză în
 funcție de cât de goală este. Doar după ce **ambele** sunt pline surplusul devine grăsime.
