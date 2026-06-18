@@ -4,19 +4,19 @@ _Vocabularul esențial și logica proceselor metabolice_
 
 ## Vocabularul esențial
 
-| Termen           | Semnificație                                                  |
-| ---------------- | ------------------------------------------------------------- |
-| **Glucoză**      | Combustibilul efectiv care provine din carbohidrați           |
-| **Glicemie**     | Nivelul glucozei în sânge                                     |
-| **Insulina**     | Hormonul-cheie care direcționează glucoza, produs de pancreas |
-| **Glucagonul**   | Hormonul opus insulinei: eliberează glucoza din stocare       |
-| **Glicogenul**   | Forma de stocare a glucozei, depozitată în ficat + mușchi     |
-| **Adipocite**    | Celule specializate în stocarea grăsimii                      |
-| **Aminoacizi**   | _„Cărămizile"_ din care sunt construite proteinele            |
-| **Trigliceride** | Forma în care grăsimea este stocată în adipocite              |
-| **ATP**          | Adenozin trifosfat, „moneda" universală de energie a celulei  |
+| Termen           | Semnificație                                              |
+| ---------------- | --------------------------------------------------------- |
+| **Glucoză**      | Combustibilul efectiv provenit din carbohidrați           |
+| **Glicemie**     | Nivelul glucozei în sânge, măsurat în mg/dL sau mmol/L    |
+| **Insulină**     | Hormonul care direcționează glucoza, produs de pancreas   |
+| **Glucagon**     | Hormonul opus insulinei — eliberează glucoza din depozite |
+| **Glicogen**     | Forma de depozit a glucozei, stocată în ficat și mușchi   |
+| **Adipocite**    | Celule specializate în stocarea grăsimii                  |
+| **Aminoacizi**   | "Cărămizile" din care sunt construite proteinele          |
+| **Trigliceride** | Forma în care grăsimea este stocată în adipocite          |
+| **ATP**          | "Moneda" universală de energie a celulei                  |
 
-## Cei trei macronutrienți: rolurile principale
+## Cei trei macronutrienți
 
 | Macronutrient    | Rol principal                                      | Energie  |
 | ---------------- | -------------------------------------------------- | -------- |
@@ -26,60 +26,50 @@ _Vocabularul esențial și logica proceselor metabolice_
 
 ## Logica proceselor: `-geneză` vs `-liză`
 
-Majoritatea numelor de procese metabolice urmează o logică simplă:
+- **`-geneză`** = producere, construire, stocare
+- **`-liză`** = descompunere, eliberare, ardere
 
-- **`-geneză`** = _producere_: construire sau stocare
-- **`-liză`** = _descompunere_: eliberare sau ardere
-
-### Procesele fundamentale
-
-| Proces                   | Ce face                                        | Când se activează                         |
-| ------------------------ | ---------------------------------------------- | ----------------------------------------- |
-| **Glicogenogeneza**      | Glucoză → glicogen (stocare)                   | După mese, insulină ridicată              |
-| **Glicogenoliza**        | Glicogen → glucoză (eliberare)                 | Între mese, efort fizic                   |
-| **Lipogeneza**           | Glucoză/surplus → grăsime (stocare)            | Surplus caloric, glicogen plin            |
-| **Lipoliza**             | Grăsime → acizi grași (eliberare)              | Insulină scăzută, exerciții, post         |
-| **Beta-oxidarea**        | Acizi grași → ATP (ardere)                     | Insulină scăzută, nevoie de energie       |
-| **Gluconeogeneza**       | Componente din proteine/grăsimi → glucoză nouă | Post prelungit, glicogen gol              |
-| **Sinteza proteică**     | Aminoacizi → mușchi/organe                     | Aport proteic + stimul                    |
-| **Proteoliza musculară** | Mușchi → aminoacizi                            | Proteine insuficiente + nevoie de glucoză |
-| **Cetogeneza**           | Grăsime → corpi cetonici                       | Post prelungit, dietă keto                |
+| Proces                            | Ce face                         | Când                                 |
+| --------------------------------- | ------------------------------- | ------------------------------------ |
+| **Glicogenogeneza** (glicogeneza) | Glucoză → glicogen              | După masă, insulină ridicată         |
+| **Glicogenoliza**                 | Glicogen → glucoză              | Între mese, efort                    |
+| **Lipogeneza**                    | Surplus → grăsime               | Glicogen plin, surplus caloric       |
+| **Lipoliza**                      | Grăsime → acizi grași           | Insulină scăzută, efort, post        |
+| **Beta-oxidarea**                 | Acizi grași → ATP               | Insulină scăzută, nevoie de energie  |
+| **Gluconeogeneza**                | Proteine/grăsimi → glucoză nouă | Post prelungit, glicogen gol         |
+| **Sinteza proteică**              | Aminoacizi → mușchi/organe      | Aport proteic + stimul fizic         |
+| **Proteoliza musculară**          | Mușchi → aminoacizi             | Proteine insuficiente + glicogen gol |
+| **Cetogeneza**                    | Grăsime → corpi cetonici        | Post prelungit, dietă keto           |
 
 ## Comutatorul central: insulina
 
-Tot metabolismul se poate reduce la o singură întrebare: **cât de ridicată este insulina?**
-
 ```
 INSULINĂ RIDICATĂ → modul STOCARE
-   → glucoza și grăsimea intră în stocare
+   → glucoza și grăsimea intră în depozite
    → grăsimea stocată nu poate ieși din adipocite
-   → corpul arde în continuare, dar din glucoza disponibilă, nu din depozite
+   → corpul arde în continuare, dar din glucoza disponibilă
 
 INSULINĂ SCĂZUTĂ → modul ARDERE
-   → grăsimea iese din stocare
+   → grăsimea iese din adipocite
    → corpul arde din rezerve
 ```
 
-{% hint style="info" icon="book-open-reader" %}
-Fiecare capitol următor revine la această regulă. Este firul care leagă totul împreună.
-{% endhint %}
+## Nu orice conversie este posibilă
 
-## Ce se poate transforma în ce
-
-Nu orice conversie este posibilă. Acestea sunt regulile fixe:
+Acestea sunt limitările biochimice fixe:
 
 ```
-Glucoză  → Grăsime         (lipogeneză)
-Proteine → Glucoză         (gluconeogeneză)
-Proteine → Grăsime         (doar cu un exces mare)
-Grăsime  → Cetone          (cetogeneză)
-Grăsime  → Glucoză         (DOAR glicerolul, o cantitate mică)
-Grăsime  → Glicogen        (nu se poate întâmpla)
-Glucoză  → Proteine        (glucoza nu poate sintetiza aminoacizii esențiali necesari construcției musculare)
+Glucoză  → Grăsime    (lipogeneză)
+Proteine → Glucoză    (gluconeogeneză)
+Proteine → Grăsime    (doar cu un exces mare)
+Grăsime  → Cetone     (cetogeneză)
+Grăsime  → Glucoză    (DOAR glicerolul, cantitate mică)
+Grăsime  → Glicogen   (nu se poate întâmpla)
+Glucoză  → Proteine   (glucoza nu poate sintetiza aminoacizii esențiali)
 ```
 
 Limitările cu cel mai mare impact practic:
 
-- Grăsime → Glicogen → efort intens pe gol = atac muscular
-- Glucoză → Proteine → carbohidrații nu înlocuiesc proteinele
-- Grăsime → Glucoză → grăsimea nu alimentează exploziile scurte
+- **Grăsime → Glicogen imposibil** → efort intens cu glicogen gol = corpul atacă mușchiul
+- **Glucoză → Proteine imposibil** → carbohidrații nu înlocuiesc proteinele
+- **Grăsime → Glucoză neglijabil** → grăsimea nu poate alimenta exploziile scurte de efort
