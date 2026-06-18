@@ -12,7 +12,7 @@ Glucoză → glicoliză    → ATP + CO₂ + APĂ
 ```
 
 {% hint style="warning" icon="head-side-brain" %} Când pierzi grăsime, o parte din acea grăsime
-devine literalmente apă, eliminată prin urină, transpirație și respirație, plus CO2 pe care îl
+devine literalmente apă, eliminată prin urină, transpirație și respirație, plus CO₂ pe care îl
 expiri. {% endhint %}
 
 ## Apa este necesară pentru arderea grăsimilor

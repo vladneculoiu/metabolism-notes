@@ -32,7 +32,7 @@ _Toate diferențele esențiale într-un singur loc_
 | --------------------- | ------------------------ | ------------------------- | --------------------- |
 | **Cum ard**           | Glicoliză → ATP          | Beta-oxidare → ATP        | Gluconeogeneză → ATP  |
 | **Când ard**          | Efort intens, mereu ceva | Repaus, efort ușor        | Urgență, glicogen gol |
-| **Produse finale**    | CO2 + apă                | CO2 + apă                 | CO2 + apă + uree      |
+| **Produse finale**    | CO₂ + apă                | CO₂ + apă                 | CO₂ + apă + uree      |
 | **Necesită insulina** | Nu neapărat              | Necesită insulină SCĂZUTĂ | --                    |
 
 ## Efectul insulinei în detaliu
