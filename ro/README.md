@@ -7,12 +7,14 @@
 Acesta este un ghid personal de referință despre metabolismul macronutrienților, scris într-un limbaj accesibil dar riguros. Pornește de la întrebări simple precum „ce se întâmplă când mănânc?" și construiește spre mecanisme concrete: insulina, glicogenul, lipoliza și recompozitia.
 
 {% hint style="info" icon="user-astronaut" %}
+**Public**
+
 Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, dincolo de reguli memorizate.
 {% endhint %}
 
 ## Cuprins
 
-| #  | Capitol                                                                               | Descriere                                              |
+| <div style="width:40px">#</div> | Capitol                                                                               | Descriere                                              |
 | -- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 01 | [Concepte de bază](docs/01-concepte-de-baza.md)                                       | Vocabular esențial + cele 4 procese fundamentale       |
 | 02 | [Carbohidrați](docs/02-carbohidrati.md)                                               | Traseul complet: de la masă la ardere                  |
