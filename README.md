@@ -26,6 +26,7 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 | 05  | [Insulina](docs/05-insulina.md)                 | Comutatorul central                             |
 | 06  | [Stocare](docs/06-stocare.md)                   | Ficat, mușchi, adipocite                        |
 | 07  | [Apă](docs/07-apa.md)                           | Rolul ei și de ce fluctuează greutatea          |
+| 08  | [Somnul](docs/08-somnul.md)                     | Cortizol, GH și fereastra de ardere nocturnă    |
 
 ## Cele 5 idei centrale
 
