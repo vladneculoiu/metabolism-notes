@@ -2,8 +2,6 @@
 
 > Hartă ASCII de referință a ciclului de stocare și ardere.
 
-[Cuprins](../README.md) | [Capitol Insulina](../docs/05-insulina.md)
-
 ---
 
 ## Ciclul de stocare și ardere

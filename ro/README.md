@@ -8,7 +8,9 @@
 
 Acesta este un ghid personal de referință despre metabolismul macronutrienților, scris într-un limbaj accesibil dar riguros. Pornește de la întrebări simple precum „ce se întâmplă când mănânc?" și construiește spre mecanisme concrete: insulina, glicogenul, lipoliza și recompozitia.
 
+{% hint style="info" icon="at" %}
 **Pentru cine este:** oricine vrea să înțeleagă *de ce* funcționează o dietă, sau eșuează, dincolo de reguli memorizate.
+{% endhint %}
 
 ---
 
