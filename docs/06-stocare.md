@@ -66,7 +66,9 @@ FICAT     MUȘCHI
    DA → surplus → GRĂSIME (lipogeneză)
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Mitul "mai întâi ficatul, apoi mușchii" este
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+Mitul "mai întâi ficatul, apoi mușchii" este
 greșit. Fiecare rezervă extrage glucoză independent. Mușchii goliți de efort trag mai agresiv —
 efortul activează transportorii GLUT4. Doar după ce **ambele** sunt pline, surplusul devine grăsime.
 {% endhint %}
@@ -96,5 +98,5 @@ Pierzi grăsime  → adipocitele SE GOLESC și SE MICȘOREAZĂ
 ```
 
 {% hint style="warning" icon="head-side-brain" %} De aceea recâștigarea grăsimii este ușoară:
-celulele goale rămân acolo, gata să se reumple. Pierderea de grăsime le golește — nu le elimină.
+celulele goale rămân acolo, gata să se reumple. Pierderea de grăsime le golește, nu le elimină.
 {% endhint %}
