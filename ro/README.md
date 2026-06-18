@@ -43,6 +43,6 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Disclaimer
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau suplimente, consultați un specialist.
 {% endhint %}

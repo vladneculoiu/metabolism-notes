@@ -1,6 +1,6 @@
 # Carbohidrați
 
-> De la furculiță la ATP: traseul complet al glucozei prin corp
+**_De la furculiță la ATP: traseul complet al glucozei prin corp_**
 
 ## Traseul complet
 
@@ -67,14 +67,8 @@ Suc de mere  → fără fibre → insulina crește brusc (= zahăr lichid)
 
 > _Aș putea mânca asta în forma sa naturală?_
 >
-> * Trestie de zahăr crudă → da, conține multe fibre
-> * O linguriță de zahăr alb → instant, pur → rafinat
-
-### Ce nu este zahăr rafinat
-
-* Fructe întregi, cu fibrele lor
-* Carbohidrați complecși: ovăz, orez brun, cartof dulce, leguminoase
-* Legume
+> - Trestie de zahăr crudă → da, conține multe fibre
+> - O linguriță de zahăr alb → instant, pur → rafinat
 
 ## Glicogenul: sistemul de stocare
 
@@ -85,7 +79,7 @@ Suc de mere  → fără fibre → insulina crește brusc (= zahăr lichid)
 | Se golește                     | Peste noapte, între mese      | Doar în timpul efortului         |
 | Se reumple                     | La orice masă cu carbohidrați | Doar după efortul care l-a golit |
 
-{% hint style="info" icon="head-side-brain" %}
+{% hint style="warning" icon="head-side-brain" %}
 **Cele două rezerve se umplu simultan și independent**, nu în secvență („mai întâi ficatul, apoi mușchii"). Fiecare extrage glucoză în funcție de cât de goală este. Doar după ce **ambele** sunt pline surplusul devine grăsime.
 {% endhint %}
 
@@ -120,8 +114,8 @@ Fiecare gustare **repornește Faza 1**: insulină ridicată, arderea grăsimilor
 
 ## Particularități
 
-* Singurul macro cu o **rezervă tampon** dedicată: glicogenul
-* Cresc insulina **cel mai mult** dintre toți macronutrienții
-* Combustibil **rapid** pentru efort intens/exploziv: sprinturi, ridicare de greutăți
-* **Rafinat** = vârf brusc; **complex** = absorbție mai lentă și mai uniformă
-* Energie: **4 kcal/g**
+- Singurul macro cu o **rezervă tampon** dedicată: glicogenul
+- Cresc insulina **cel mai mult** dintre toți macronutrienții
+- Combustibil **rapid** pentru efort intens/exploziv: sprinturi, ridicare de greutăți
+- **Rafinat** = vârf brusc; **complex** = absorbție mai lentă și mai uniformă
+- Energie: **4 kcal/g**

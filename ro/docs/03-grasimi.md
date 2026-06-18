@@ -69,15 +69,11 @@ Grăsimea singură nu se stochează agresiv. Devine o problemă în combinație:
 ```
 CONDIȚIE: insulina trebuie să fie SCĂZUTĂ
 
-Glucagonul/adrenalina semnalizează adipocitele
-
-HSL se activează → LIPOLIZĂ
-
-Trigliceride → acizi grași + glicerol
-
-Acizi grași → sânge → mușchi/organe
-
-BETA-OXIDARE în mitocondrie → ATP
+→ Glucagonul/adrenalina semnalizează adipocitele
+→ HSL se activează → LIPOLIZĂ
+→ Trigliceride → acizi grași + glicerol
+→ Acizi grași → sânge → mușchi/organe
+→ BETA-OXIDARE în mitocondrie → ATP
 
 Produse finale: CO2 + apă
 ```
@@ -92,7 +88,7 @@ Grăsimea este stocată în **adipocite**, celule asemănătoare unor baloane pl
 | **Subcutanată** | Sub piele              | Mai scăzut       | **Ultima** când slăbești |
 | **Ectopică**    | Ficat, pancreas, inimă | Semnal de alarmă | Timpuriu                 |
 
-{% hint style="info" icon="head-side-brain" %}
+{% hint style="warning" icon="head-side-brain" %}
 Cea mai periculoasă grăsime, cea viscerală, pleacă prima când slăbești, chiar dacă oglinda nu o arată imediat.
 {% endhint %}
 
@@ -110,8 +106,8 @@ Abdomenele NU ard grăsimea abdominală
 
 ## Particularități
 
-* **Nu** cresc insulina mult singure, principala diferență față de carbohidrați
-* **Nu au rezervă tampon**: sunt arse imediat sau stocate direct
-* Combustibil **lent**, ideal în repaus și în timpul efortului ușor/moderat
-* Cele mai **dense caloric**: 9 kcal/g, față de 4 kcal/g pentru carbohidrați și proteine
-* **Nu sunt dușmanul**. Problema este zahărul + grăsimea + surplusul caloric.
+- **Nu** cresc insulina mult singure, principala diferență față de carbohidrați
+- **Nu au rezervă tampon**: sunt arse imediat sau stocate direct
+- Combustibil **lent**, ideal în repaus și în timpul efortului ușor/moderat
+- Cele mai **dense caloric**: 9 kcal/g, față de 4 kcal/g pentru carbohidrați și proteine
+- **Nu sunt dușmanul**. Problema este zahărul + grăsimea + surplusul caloric.

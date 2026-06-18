@@ -1,6 +1,6 @@
 # Concepte de bază
 
-> Vocabularul esențial și logica proceselor metabolice
+**_Vocabularul esențial și logica proceselor metabolice_**
 
 ## Vocabularul esențial
 
@@ -28,8 +28,8 @@
 
 Majoritatea numelor de procese metabolice urmează o logică simplă:
 
-* **`-geneză`** = _producere_: construire sau stocare
-* **`-liză`** = _descompunere_: eliberare sau ardere
+- **`-geneză`** = _producere_: construire sau stocare
+- **`-liză`** = _descompunere_: eliberare sau ardere
 
 ### Procesele fundamentale
 
@@ -59,7 +59,7 @@ INSULINĂ SCĂZUTĂ → modul ARDERE
    → corpul arde din rezerve
 ```
 
-{% hint style="info" icon="book-open-reader" %}
+{% hint style="warning" icon="book-open-reader" %}
 Fiecare capitol următor revine la această regulă. Este firul care leagă totul împreună.
 {% endhint %}
 
@@ -77,8 +77,8 @@ Grăsime  → Glicogen        (nu se poate întâmpla)
 Glucoză  → Proteine        (lipsesc aminoacizii esențiali)
 ```
 
-> Limitările cu cel mai mare impact practic:
->
-> * Grăsime → Glicogen → efort intens pe gol = atac muscular
-> * Glucoză → Proteine → carbohidrații nu înlocuiesc proteinele
-> * Grăsime → Glucoză → grăsimea nu alimentează exploziile scurte
+Limitările cu cel mai mare impact practic:
+
+- Grăsime → Glicogen → efort intens pe gol = atac muscular
+- Glucoză → Proteine → carbohidrații nu înlocuiesc proteinele
+- Grăsime → Glucoză → grăsimea nu alimentează exploziile scurte
