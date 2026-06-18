@@ -1,15 +1,10 @@
 # Welcome
 
-Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate,
-și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de
-masă musculară.
+Un ghid practic ilustrat despre cum **carbohidrații, grăsimile și proteinele** sunt arse și stocate, și cum să aplici asta pentru recompozitia corporală: pierderea de grăsime concomitent cu câștigul de masă musculară.
 
-Reprezintă o referință despre metabolismul macronutrienților, scris într-un limbaj accesibil.
-Pornește de la întrebări simple precum _ce se întâmplă când mănânc?_ și construiește spre mecanisme
-concrete: insulina, glicogenul, lipoliza și recompozitia.
+Reprezintă o referință despre metabolismul macronutrienților, scris într-un limbaj accesibil. Pornește de la întrebări simple precum _ce se întâmplă când mănânc?_ și construiește spre mecanisme concrete: insulina, glicogenul, lipoliza și recompozitia.
 
 {% hint style="info" icon="user-astronaut" %}
-
 **Public**
 
 Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, dincolo de reguli memorizate.
@@ -29,18 +24,11 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Cele 5 idei centrale
 
-1. **Insulina este comutatorul.** Ridicată = arderea grăsimii _stocate_ blocată. Scăzută = grăsimea
-   din depozite accesibilă. Corpul continuă să ardă energie în orice condiție — insulina decide
-   **din ce sursă.**
-2. **Deficitul caloric este regula #1.** Insulina deschide ușa; deficitul face corpul să treacă prin
-   ea.
-3. **Proteinele sunt prioritatea**, mai ales în deficit — aproape nu se stochează și protejează
-   mușchii.
-4. **Nu alegi de unde dispare grăsimea.** Genetica și hormonii decid; exercițiile locale nu ard
-   grăsimea din zona lucrată.
-5. **Mișcarea, cantitatea, somnul și stresul** sunt cele patru pârghii reale. Mișcarea și cantitatea
-   controlează caloriile; somnul și stresul controlează cortizolul — care influențează direct unde
-   se depune și cât de greu pleacă grăsimea abdominală.
+1. **Insulina este comutatorul.** Ridicată = arderea grăsimii _stocate_ blocată. Scăzută = grăsimea din depozite accesibilă. Corpul continuă să ardă energie în orice condiție — insulina decide **din ce sursă.**
+2. **Deficitul caloric este regula #1.** Insulina deschide ușa; deficitul face corpul să treacă prin ea.
+3. **Proteinele sunt prioritatea**, mai ales în deficit — aproape nu se stochează și protejează mușchii.
+4. **Nu alegi de unde dispare grăsimea.** Genetica și hormonii decid; exercițiile locale nu ard grăsimea din zona lucrată.
+5. **Mișcarea, cantitatea, somnul și stresul** sunt cele patru pârghii reale. Mișcarea și cantitatea controlează caloriile; somnul și stresul controlează cortizolul — care influențează direct unde se depune și cât de greu pleacă grăsimea abdominală.
 
 ## Referință rapidă
 
@@ -50,6 +38,6 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Disclaimer
 
-{% hint style="danger" %} Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul
-unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau
-suplimente, consultați un specialist. {% endhint %}
+{% hint style="danger" %}
+Acest conținut este pentru \*\*educație generală\*\*. Nu înlocuiește sfatul unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau suplimente, consultați un specialist.
+{% endhint %}
