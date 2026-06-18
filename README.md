@@ -30,11 +30,11 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Cele 5 idei centrale
 
-1. **Insulina este comutatorul.** Ridicată = stocare, scăzută = ardere.
-2. **Deficitul caloric este regula #1.** Insulina deschide ușa; deficitul face corpul să treacă prin ea.
-3. **Proteinele sunt prioritatea**, mai ales în deficit: nu se stochează și protejează mușchii.
-4. **Nu alegi de unde dispare grăsimea.** Genetica și hormonii decid.
-5. **Mișcarea + cantitatea** sunt cele două pârghii reale.
+1. Insulina este comutatorul. Ridicată = arderea grăsimii stocate blocată, scăzută = grăsimea din depozite accesibilă. Corpul continuă să ardă energie în orice condiție — insulina decide din ce sursă.
+2. Deficitul caloric este regula #1. Insulina deschide ușa; deficitul face corpul să treacă prin ea.
+3. Proteinele sunt prioritatea, mai ales în deficit: aproape nu se stochează și protejează mușchii.
+4. Nu alegi de unde dispare grăsimea. Genetica și hormonii decid; exercițiile locale nu ard grăsimea din zona lucrată.
+5. Mișcarea, cantitatea, somnul și stresul sunt cele patru pârghii reale. Mișcarea și cantitatea controlează caloriile; somnul și stresul controlează cortizolul care influențează direct unde se depune și cât de greu pleacă grăsimea abdominală.
 
 ## Disclaimer
 
