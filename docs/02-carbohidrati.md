@@ -35,9 +35,13 @@ Glucoza nu merge direct la stocare. Ordinea reală:
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %}
-Corpul are un tampon zilnic de carbohidrați care
-pot fi procesați fără a deveni grăsime: energia imediată + reumplerea ficatului. Activitatea fizică
-crește semnificativ acest tampon. 
+Corpul are un tampon zilnic de carbohidrați care pot fi 
+procesați fără a deveni grăsime: energia imediată + 
+reumplerea ficatului + reumplerea glicogenului muscular 
+(dacă efortul l-a consumat).
+
+Activitatea fizică crește semnificativ acest tampon.
+
 {% endhint %}
 
 ## Pancreas și ficat: cine face ce
