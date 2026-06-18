@@ -9,7 +9,7 @@ Acesta este un ghid personal de referință despre metabolismul macronutriențil
 {% hint style="info" icon="user-astronaut" %}
 **Public**
 
-Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, dincolo de reguli memorizate.
+Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, dincolo de reguli memorizate.
 {% endhint %}
 
 ## Cuprins
