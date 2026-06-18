@@ -1,6 +1,6 @@
 # Rezistența la insulină și Ficatul gras
 
-> Cum apar, de ce blochează pierderea de grăsime și cum pot fi reversate.
+_Cum apar, de ce blochează pierderea de grăsime și cum pot fi reversate_
 
 ---
 
@@ -20,15 +20,15 @@ Rezistența la insulină:
 
 ```text
 Celulele sunt surde la insulină
-        
+
 Glicemia rămâne ridicată
-        
+
 Pancreasul crede că „nu este suficientă insulină"
-        
+
 Produce MAI MULTĂ insulină
-        
+
 Insulină cronic RIDICATĂ în sânge
-        
+
 Blocare permanentă a adipocitelor -> grăsimea stocată este greu de ars
 ```
 
@@ -36,19 +36,19 @@ Blocare permanentă a adipocitelor -> grăsimea stocată este greu de ars
 
 ```text
 Rezistentă -> insulină ridicată -> ardere de grăsime mai mică -> creștere în grăsime
-    ^                                           
+    ^
     -------------------- devine și mai rezistentă -------->
 ```
 
 ### Cauze
 
-| Cauză | Mecanism |
-| --- | --- |
+| Cauză                              | Mecanism                                             |
+| ---------------------------------- | ---------------------------------------------------- |
 | Zahăr/carbohidrați rafinați cronic | Insulina mereu ridicată -> celulele devin „saturate" |
-| Grăsimea viscerală abdominală | Eliberează substanțe inflamatorii |
-| Sedentarism | Mușchii inactivi devin rezistenți |
-| Somn insuficient + stres cronic | Cortizolul o agravează |
-| Genetica | Unii oameni sunt predispuși |
+| Grăsimea viscerală abdominală      | Eliberează substanțe inflamatorii                    |
+| Sedentarism                        | Mușchii inactivi devin rezistenți                    |
+| Somn insuficient + stres cronic    | Cortizolul o agravează                               |
+| Genetica                           | Unii oameni sunt predispuși                          |
 
 ### Semne posibile, nu un diagnostic
 
@@ -62,22 +62,22 @@ Rezistentă -> insulină ridicată -> ardere de grăsime mai mică -> creștere 
 
 > **Important:** multe teste de rutină măsoară doar **glicemia**. Poți avea glicemie normală dar insulină ridicată ani de zile în timp ce pancreasul compensează în tăcere.
 
-| Test | Ce măsoară |
-| --- | --- |
-| Glicemie à jeun | Nivelul glicemiei pe nemâncate |
-| **Insulină à jeun** | Esențial, adesea omis |
-| HbA1c | Glicemia medie pe ~3 luni |
-| HOMA-IR | Calculat din glucoză + insulină, cel mai complet marker simplu |
+| Test                | Ce măsoară                                                     |
+| ------------------- | -------------------------------------------------------------- |
+| Glicemie à jeun     | Nivelul glicemiei pe nemâncate                                 |
+| **Insulină à jeun** | Esențial, adesea omis                                          |
+| HbA1c               | Glicemia medie pe ~3 luni                                      |
+| HOMA-IR             | Calculat din glucoză + insulină, cel mai complet marker simplu |
 
 ### Cum poate fi reversată
 
-| Intervenție | Efect |
-| --- | --- |
-| **Mișcarea**, cel mai puternic instrument | Mușchii absorb glucoza fără insulină; chiar și mersul pe jos după mese ajută |
-| Reducerea carbohidraților rafinați | Mai puține vârfuri -> celulele recâștigă sensibilitate |
-| Pierderea de grăsime, mai ales viscerală | Mai puțină inflamație -> celulele răspund din nou |
-| Somn bun + stres redus | Cortizol mai mic -> insulina funcționează mai bine |
-| Post intermitent, dacă cortizolul este stabil | Ferestre fără insulină -> celulele se pot „reseta" |
+| Intervenție                                   | Efect                                                                        |
+| --------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Mișcarea**, cel mai puternic instrument     | Mușchii absorb glucoza fără insulină; chiar și mersul pe jos după mese ajută |
+| Reducerea carbohidraților rafinați            | Mai puține vârfuri -> celulele recâștigă sensibilitate                       |
+| Pierderea de grăsime, mai ales viscerală      | Mai puțină inflamație -> celulele răspund din nou                            |
+| Somn bun + stres redus                        | Cortizol mai mic -> insulina funcționează mai bine                           |
+| Post intermitent, dacă cortizolul este stabil | Ferestre fără insulină -> celulele se pot „reseta"                           |
 
 ---
 
@@ -97,9 +97,9 @@ Ficatul **produce** grăsime și o **exportă** spre adipocite. Nu este conceput
 ```text
 Normal:
 Surplus de glucoză -> ficat -> LIPOGENEZĂ -> TRIGLICERIDE
-        
+
 Ambalate în VLDL („camioane") -> sânge -> adipocite
-        
+
 Ficatul rămâne curat
 ```
 
@@ -107,11 +107,11 @@ Ficatul rămâne curat
 
 ```text
 Prea mult zahăr/fructoză CRONIC
-        
+
 Ficatul produce grăsime mai repede decât o poate exporta
-        
+
 „Camioanele" VLDL nu pot face față volumului
-        
+
 Grăsimea rămâne în ficat -> STEATOZĂ
 ```
 
@@ -128,11 +128,11 @@ FRUCTOZA  -> procesată APROAPE EXCLUSIV de ficat
 
 ```text
 Fructoză în exces din zahăr, HFCS, băuturi dulci
-        
+
 Merge direct și majoritar la ficat
-        
+
 Copleșește ficatul -> lipogezeă masivă
-        
+
 „Camioanele" nu țin pasul -> acumulare în ficat
 ```
 
@@ -140,9 +140,9 @@ Copleșește ficatul -> lipogezeă masivă
 
 ### Tipuri
 
-| Tip | Cauză |
-| --- | --- |
-| **Ficat gras alcoolic** | Consum cronic de alcool |
+| Tip                      | Cauză                                                    |
+| ------------------------ | -------------------------------------------------------- |
+| **Ficat gras alcoolic**  | Consum cronic de alcool                                  |
 | **NAFLD** (non-alcoolic) | Zahăr, fructoză, surplus caloric, rezistență la insulină |
 
 > NAFLD, Boala ficatului gras non-alcoolic, este acum extrem de comună. Nu necesită alcool; vine din zahăr și băuturi dulci în dieta modernă.
@@ -151,27 +151,29 @@ Copleșește ficatul -> lipogezeă masivă
 
 ```text
 Ficat gras -> rezistență hepatică la insulină
-        
+
 Ficatul nu mai oprește corect eliberarea de glucoză
-        
+
 Glicemie cronic ridicată -> insulină și mai ridicată
-        
+
 Mai multă lipogeneză -> mai mult ficat gras
-        
+
 ... spre diabet de tip 2 fără intervenție
 ```
 
 <!-- markdownlint-disable MD024 -->
+
 ### Cum poate fi reversat
+
 <!-- markdownlint-enable MD024 -->
 
-| Intervenție | Impact |
-| --- | --- |
-| **Eliminarea băuturilor dulci/sucurilor** | Cel mai mare impact imediat |
-| Reducerea zahărului și fructozei | Scade producția de grăsime în ficat |
-| Deficit caloric + pierdere de grăsime | Reduce grăsimea viscerală + hepatică |
-| Mișcarea | Golește glicogenul -> creează spațiu, reduce lipogeneza |
-| Reducerea/eliminarea alcoolului | Înlătură o sarcină majoră a ficatului |
-| Post intermitent | Oferă ficatului timp să ardă grăsimea internă |
+| Intervenție                               | Impact                                                  |
+| ----------------------------------------- | ------------------------------------------------------- |
+| **Eliminarea băuturilor dulci/sucurilor** | Cel mai mare impact imediat                             |
+| Reducerea zahărului și fructozei          | Scade producția de grăsime în ficat                     |
+| Deficit caloric + pierdere de grăsime     | Reduce grăsimea viscerală + hepatică                    |
+| Mișcarea                                  | Golește glicogenul -> creează spațiu, reduce lipogeneza |
+| Reducerea/eliminarea alcoolului           | Înlătură o sarcină majoră a ficatului                   |
+| Post intermitent                          | Oferă ficatului timp să ardă grăsimea internă           |
 
 > Studiile arată că reducerea zahărului plus pierderea în greutate poate reversa NAFLD în **câteva luni**. Ficatul are o capacitate ridicată de regenerare.

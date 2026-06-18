@@ -10,7 +10,6 @@
 - [Proteine](docs/04-proteine.md)
 - [Insulina](docs/05-insulina.md)
 - [Stocare](docs/06-stocare.md)
-- [Rezistența la insulină & Ficatul gras](docs/07-rezistenta-la-insulina-ficat-gras.md)
 - [Apă](docs/08-apa.md)
 
 ## Referință
