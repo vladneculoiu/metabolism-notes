@@ -14,7 +14,7 @@ Oricine vrea să înțeleagă _de ce_ funcționează o dietă, sau eșuează, di
 
 ## Cuprins
 
-| <div style="width:40px">#</div> | Capitol                                                                               | Descriere                                              |
+| # | Capitol                                                                               | Descriere                                              |
 | -- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 01 | [Concepte de bază](docs/01-concepte-de-baza.md)                                       | Vocabular esențial + cele 4 procese fundamentale       |
 | 02 | [Carbohidrați](docs/02-carbohidrati.md)                                               | Traseul complet: de la masă la ardere                  |
