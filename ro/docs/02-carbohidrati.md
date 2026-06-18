@@ -1,6 +1,6 @@
 # Carbohidrați
 
-**_De la furculiță la ATP: traseul complet al glucozei prin corp_**
+_De la furculiță la ATP: traseul complet al glucozei prin corp_
 
 ## Traseul complet
 
@@ -33,7 +33,7 @@ Glucoza **nu** merge direct la stocare ca grăsime. Ordinea reală este:
 | **#2**     | Reumplere glicogen | Ficat + mușchi, dacă există loc                       |
 | **#3**     | Grăsime            | Doar surplusul final, după ce #1 și #2 sunt acoperite |
 
-{% hint style="info" icon="head-side-brain" %}
+{% hint style="warning" icon="head-side-brain" %}
 „Tamponul" zilnic pentru o persoană sedentară este în jur de \~200g de carbohidrați: energie + reumplere ficat fără a deveni grăsime. Activitatea fizică crește semnificativ acest tampon.
 {% endhint %}
 

@@ -1,6 +1,6 @@
 # Grăsimi
 
-> LPL, HSL și de ce grăsimea singură nu este dușmanul
+_LPL, HSL și de ce grăsimea singură nu este dușmanul_
 
 ## Traseul complet
 
@@ -45,7 +45,7 @@ INSULINĂ SCĂZUTĂ:
    HSL activă   → grăsimea iese → ardere
 ```
 
-{% hint style="info" icon="head-side-brain" %}
+{% hint style="warning" icon="head-side-brain" %}
 Insulina blochează adipocitele. Cât timp insulina este ridicată, grăsimea este prinsă înăuntru, chiar dacă ești în deficit caloric. În acel moment specific, nu arzi grăsimea stocată.
 {% endhint %}
 
@@ -60,7 +60,7 @@ Grăsimea singură nu se stochează agresiv. Devine o problemă în combinație:
 | Cartofi prăjiți (amidon + ulei)    | Combinația perfectă de stocare                  |
 | Avocado + salată (grăsime + fibre) | Insulină stabilă → arsă                         |
 
-{% hint style="info" icon="head-side-brain" %}
+{% hint style="warning" icon="head-side-brain" %}
 **Regula:** carbohidrații rafinați cresc insulina → insulina deschide adipocitele → grăsimea **din aceeași masă** intră direct în stocare.
 {% endhint %}
 

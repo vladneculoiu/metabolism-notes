@@ -1,6 +1,6 @@
 # Concepte de bază
 
-**_Vocabularul esențial și logica proceselor metabolice_**
+_Vocabularul esențial și logica proceselor metabolice_
 
 ## Vocabularul esențial
 
@@ -59,7 +59,7 @@ INSULINĂ SCĂZUTĂ → modul ARDERE
    → corpul arde din rezerve
 ```
 
-{% hint style="warning" icon="book-open-reader" %}
+{% hint style="info" icon="book-open-reader" %}
 Fiecare capitol următor revine la această regulă. Este firul care leagă totul împreună.
 {% endhint %}
 
