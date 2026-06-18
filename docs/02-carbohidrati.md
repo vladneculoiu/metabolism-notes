@@ -33,9 +33,12 @@ Glucoza nu merge direct la stocare. Ordinea reală:
 | **#2**     | Reumplere glicogen | Ficat + mușchi, dacă există loc                 |
 | **#3**     | Grăsime            | Doar surplusul, după ce #1 și #2 sunt acoperite |
 
-{% hint style="warning" icon="head-side-brain" %} Corpul are un tampon zilnic de carbohidrați care
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %}
+Corpul are un tampon zilnic de carbohidrați care
 pot fi procesați fără a deveni grăsime: energia imediată + reumplerea ficatului. Activitatea fizică
-crește semnificativ acest tampon. {% endhint %}
+crește semnificativ acest tampon. 
+{% endhint %}
 
 ## Pancreas și ficat: cine face ce
 

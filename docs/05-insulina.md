@@ -58,9 +58,12 @@ ardere, chiar dacă alternezi oră cu oră. {% endhint %}
 | Cereale procesate, biscuiți | Lactate: lapte, iaurt          | Nuci, semințe                    |
 | Fructe foarte dulci         | Proteine (moderat)             | Apă, cafea neagră, ceai          |
 
-{% hint style="warning" icon="head-side-brain" %} **Combinațiile schimbă răspunsul:** grăsimea +
-fibrele + proteinele încetinesc absorbția carbohidraților — insulina crește mai lent și mai puțin
-brusc. {% endhint %}
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+**Combinațiile schimbă răspunsul:** grăsimea +
+fibrele + proteinele încetinesc absorbția carbohidraților. Insulina crește mai lent și mai puțin
+brusc. 
+{% endhint %}
 
 ```
 Orez alb singur               → insulina crește brusc
@@ -121,4 +124,5 @@ influențează cât de ușor și rapid.**
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
 **Ierarhie:** alcool → somn → stres → insulină
-cronică → sedentarism. Rezolvă-le în această ordine. {% endhint %}
+cronică → sedentarism. Rezolvă-le în această ordine.
+{% endhint %}

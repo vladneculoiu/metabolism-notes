@@ -17,15 +17,15 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Cuprins
 
-| #   | Capitol                                    | Despre                                          |
-| --- | ------------------------------------------ | ----------------------------------------------- |
-| 01  | [Concepte de bază](01-concepte-de-baza.md) | Vocabular + procesele fundamentale              |
-| 02  | [Carbohidrați](02-carbohidrati.md)         | De la masă la ardere                            |
-| 03  | [Grăsimi](03-grasimi.md)                   | LPL, HSL și capcana zahăr + grăsime             |
-| 04  | [Proteine](04-proteine.md)                 | De ce nu se stochează și cum protejează mușchii |
-| 05  | [Insulina](05-insulina.md)                 | Comutatorul central                             |
-| 06  | [Stocare](06-stocare.md)                   | Ficat, mușchi, adipocite                        |
-| 07  | [Apă](07-apa.md)                           | Rolul ei și de ce fluctuează greutatea          |
+| #   | Capitol                                         | Despre                                          |
+| --- | ----------------------------------------------- | ----------------------------------------------- |
+| 01  | [Concepte de bază](docs/01-concepte-de-baza.md) | Vocabular + procesele fundamentale              |
+| 02  | [Carbohidrați](docs/02-carbohidrati.md)         | De la masă la ardere                            |
+| 03  | [Grăsimi](docs/03-grasimi.md)                   | LPL, HSL și capcana zahăr + grăsime             |
+| 04  | [Proteine](docs/04-proteine.md)                 | De ce nu se stochează și cum protejează mușchii |
+| 05  | [Insulina](docs/05-insulina.md)                 | Comutatorul central                             |
+| 06  | [Stocare](docs/06-stocare.md)                   | Ficat, mușchi, adipocite                        |
+| 07  | [Apă](docs/07-apa.md)                           | Rolul ei și de ce fluctuează greutatea          |
 
 ## Cele 5 idei centrale
 
@@ -44,9 +44,9 @@ Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, din
 
 ## Referință rapidă
 
-- [Glosar](referinta/glosar.md) — toți termenii tehnici, alfabetic
-- [Procese metabolice](referinta/procese.md) — tabelul complet al proceselor
-- [Tabel comparativ](referinta/tabel-comparativ.md) — carbohidrați vs grăsimi vs proteine
+- [Glosar](reference/glosar.md) — toți termenii tehnici, alfabetic
+- [Procese metabolice](reference/procese.md) — tabelul complet al proceselor
+- [Tabel comparativ](reference/tabel-comparativ.md) — carbohidrați vs grăsimi vs proteine
 
 ## Disclaimer
 

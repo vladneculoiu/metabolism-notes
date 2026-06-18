@@ -50,9 +50,12 @@ Singura sursă mare = mușchii (proteine structurale)
 PROTEOLIZĂ MUSCULARĂ = catabolism ❌
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Asigură aminoacizi din dietă înainte ca pool-ul să
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+Asigură aminoacizi din dietă înainte ca pool-ul să
 se golească. De aceea **aportul constant pe parcursul zilei** contează mai mult decât un total mare
-dintr-o singură masă. {% endhint %}
+dintr-o singură masă. 
+{% endhint %}
 
 ## Distribuția contează mai mult decât totalul
 
