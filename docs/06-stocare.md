@@ -34,7 +34,7 @@ Se golește:
 ```
 
 {% hint style="warning" icon="head-side-brain" %} Mușchilor le lipsește enzima glucozo-6-fosfatază,
-care ar permite trimiterea glucozei în sânge. De aceea mușchii nu reglează glicemia — ficatul este
+care ar permite trimiterea glucozei în sânge. De aceea mușchii nu reglează glicemia, ci ficatul este
 singurul care poate face asta. {% endhint %}
 
 ## Comparație directă
@@ -49,7 +49,7 @@ singurul care poate face asta. {% endhint %}
 
 ## Cum se umplu ambele rezerve
 
-Se umplu **simultan și independent** — nu în secvență:
+Se umplu **simultan și independent**, nu în secvență:
 
 ```
 Glucoză în sânge după masă
@@ -57,7 +57,7 @@ Glucoză în sânge după masă
    ┌────┴────┐
    ↓         ↓
 FICAT     MUȘCHI
-   rezervele se umplu în paralel, după cât de goale sunt
+rezervele se umplu în paralel, după cât de goale sunt
    │         │
    └────┬────┘
         ↓
@@ -69,8 +69,8 @@ FICAT     MUȘCHI
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
 Mitul "mai întâi ficatul, apoi mușchii" este
-greșit. Fiecare rezervă extrage glucoză independent. Mușchii goliți de efort trag mai agresiv —
-efortul activează transportorii GLUT4. Doar după ce **ambele** sunt pline, surplusul devine grăsime.
+greșit. Fiecare rezervă extrage glucoză independent. Mușchii goliți de efort trag mai agresiv.
+Efortul activează transportorii GLUT4. Doar după ce **ambele** sunt pline, surplusul devine grăsime.
 {% endhint %}
 
 ## Starea rezervelor dimineața
@@ -79,8 +79,8 @@ Dimineața nu ești complet gol:
 
 | Rezervă           | Stare la trezire                                         |
 | ----------------- | -------------------------------------------------------- |
-| Glicogen hepatic  | Parțial gol — ficatul a alimentat glicemia toată noaptea |
-| Glicogen muscular | Aproape plin — mușchii nu lucrează în somn               |
+| Glicogen hepatic  | Parțial gol (ficatul a alimentat glicemia toată noaptea) |
+| Glicogen muscular | Aproape plin (mușchii nu lucrează în somn)               |
 
 {% hint style="warning" icon="head-side-brain" %} Dimineața este o fereastră bună de ardere:
 insulină scăzută, ficat parțial gol. Tot ai energie pentru activitate și antrenament din glicogenul
@@ -88,7 +88,7 @@ muscular intact. {% endhint %}
 
 ## Adipocitele: rezerva de grăsime
 
-Adipocitele sunt celule specializate în stocarea trigliceridelor — asemănătoare unor baloane în care
+Adipocitele sunt celule specializate în stocarea trigliceridelor asemănătoare unor baloane în care
 grăsimea ocupă aproape tot spațiul interior.
 
 ```
