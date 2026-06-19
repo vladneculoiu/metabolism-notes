@@ -11,6 +11,15 @@ pe baza lui un plan funcțional pentru propriul corp. Pornește de la o întreba
 Oricine vrea să înțeleagă **de ce alimentația, somnul și sportul** funcționează, **nu doar ce să
 facă.** {% endhint %}
 
+## Disclaimer
+
+<!-- prettier-ignore -->
+{% hint style="danger" %}
+Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul
+unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau
+suplimente, consultați un specialist. 
+{% endhint %}
+
 ## Cuprins
 
 | #   | Capitol                                         | Despre                                       |
@@ -42,12 +51,3 @@ facă.** {% endhint %}
 - [Glosar](reference/glosar.md) — toți termenii tehnici, alfabetic
 - [Procese metabolice](reference/procese.md) — tabelul complet al proceselor
 - [Tabel comparativ](reference/tabel-comparativ.md) — carbohidrați vs grăsimi vs proteine
-
-## Disclaimer
-
-<!-- prettier-ignore -->
-{% hint style="danger" %}
-Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul
-unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau
-suplimente, consultați un specialist. 
-{% endhint %}
