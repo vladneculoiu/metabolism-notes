@@ -29,17 +29,17 @@ _Vocabularul esențial și logica proceselor metabolice_
 - **`-geneză`** = producere, construire, stocare
 - **`-liză`** = descompunere, eliberare, ardere
 
-| Proces                            | Ce face                         | Când                                 |
-| --------------------------------- | ------------------------------- | ------------------------------------ |
-| **Glicogenogeneza** (glicogeneza) | Glucoză → glicogen              | După masă, insulină ridicată         |
-| **Glicogenoliza**                 | Glicogen → glucoză              | Între mese, efort                    |
-| **Lipogeneza**                    | Surplus → grăsime               | Glicogen plin, surplus caloric       |
-| **Lipoliza**                      | Grăsime → acizi grași           | Insulină scăzută, efort, post        |
-| **Beta-oxidarea**                 | Acizi grași → ATP               | Insulină scăzută, nevoie de energie  |
-| **Gluconeogeneza**                | Proteine/grăsimi → glucoză nouă | Post prelungit, glicogen gol         |
-| **Sinteza proteică**              | Aminoacizi → mușchi/organe      | Aport proteic + stimul fizic         |
-| **Proteoliza musculară**          | Mușchi → aminoacizi             | Proteine insuficiente + glicogen gol |
-| **Cetogeneza**                    | Grăsime → corpi cetonici        | Post prelungit, dietă keto           |
+| Proces                            | Ce face                    | Când                                  | Explicat în                                                  |
+| --------------------------------- | -------------------------- | ------------------------------------- | ------------------------------------------------------------ |
+| **Glicoliza**                     | Glucoză → ATP              | Mereu, prioritate de energie imediată | [Carbohidrați](02-carbohidrati.md)                           |
+| **Glicogenogeneza** (glicogeneza) | Glucoză → glicogen         | După masă, insulină ridicată          | [Carbohidrați](02-carbohidrati.md)                           |
+| **Glicogenoliza**                 | Glicogen → glucoză         | Între mese, efort                     | [Carbohidrați](02-carbohidrati.md), [Stocare](06-stocare.md) |
+| **Lipogeneza**                    | Surplus → grăsime          | Glicogen plin, surplus caloric        | [Grăsimi](03-grasimi.md)                                     |
+| **Lipoliza**                      | Grăsime → acizi grași      | Insulină scăzută, efort, post         | [Grăsimi](03-grasimi.md)                                     |
+| **Beta-oxidarea**                 | Acizi grași → ATP          | Insulină scăzută, nevoie de energie   | [Grăsimi](03-grasimi.md)                                     |
+| **Gluconeogeneza**                | Proteine → glucoză nouă    | Post, glicogen gol                    | [Proteine](04-proteine.md)                                   |
+| **Sinteza proteică**              | Aminoacizi → mușchi/organe | Aport proteic + stimul fizic          | [Proteine](04-proteine.md)                                   |
+| **Proteoliza musculară**          | Mușchi → aminoacizi ❌     | Proteine insuficiente + glicogen gol  | [Proteine](04-proteine.md)                                   |
 
 ## Comutatorul central: insulina
 
@@ -53,17 +53,3 @@ INSULINĂ SCĂZUTĂ → modul ARDERE
    → grăsimea iese din adipocite
    → corpul arde din rezerve
 ```
-
-## Ce se poate transforma în ce
-
-Acestea sunt limitările biochimice:
-
-| Conversie          | Posibilă?  | Proces                      | Observații                                       |
-| ------------------ | ---------- | --------------------------- | ------------------------------------------------ |
-| Glucoză → Grăsime  | ✅ Da      | Lipogeneză                  | Surplusul de glucoză devine grăsime              |
-| Proteine → Glucoză | ✅ Da      | Gluconeogeneză              | Corpul fabrică glucoză din aminoacizi            |
-| Proteine → Grăsime | ✅ Da      | Deaminare + lipogeneză      | Doar la un exces mare, cale costisitoare         |
-| Grăsime → Cetone   | ✅ Da      | Cetogeneză                  | La post prelungit sau dietă keto                 |
-| Grăsime → Glucoză  | ⚠️ Limitat | Gluconeogeneză din glicerol | Doar glicerolul; cantitate mică, nu acizii grași |
-| Grăsime → Glicogen | ❌ Nu      | —                           | Imposibil biochimic                              |
-| Glucoză → Proteine | ❌ Nu      | —                           | Glucoza nu poate sintetiza aminoacizii esențiali |
