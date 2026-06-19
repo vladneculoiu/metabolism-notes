@@ -15,8 +15,10 @@ facă.** {% endhint %}
 
 <!-- prettier-ignore -->
 {% hint style="danger" %}
-Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul unui medic sau dietetician. 
-Pentru probleme medicale consultați un medic specialist. 
+Acest conținut are scop educațional general și prezintă simplificări ale unor procese biologice complexe. 
+Nu constituie sfat medical, nutrițional sau de fitness personalizat și nu înlocuiește consultul unui 
+medic, dietetician sau specialist calificat. Orice decizie privind sănătatea, alimentația sau 
+interpretarea analizelor medicale trebuie discutată cu un specialist. 
 {% endhint %}
 
 ## Cuprins
