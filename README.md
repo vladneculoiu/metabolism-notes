@@ -15,9 +15,8 @@ facă.** {% endhint %}
 
 <!-- prettier-ignore -->
 {% hint style="danger" %}
-Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul
-unui medic sau dietetician. Pentru probleme medicale precum rezistența la insulină, ficatul gras sau
-suplimente, consultați un specialist. 
+Acest conținut este pentru **educație generală**. Nu înlocuiește sfatul unui medic sau dietetician. 
+Pentru probleme medicale consultați un medic specialist. 
 {% endhint %}
 
 ## Cuprins
