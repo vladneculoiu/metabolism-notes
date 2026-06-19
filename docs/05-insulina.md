@@ -71,14 +71,12 @@ Insulină MEREU ridicată (zahăr toată ziua)
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
-**Deficitul caloric este regula #1. Insulina
-influențează cât de ușor și rapid.** 
+**Dacă scopul este slăbitul, deficitul caloric este regula #1. Insulina
+influențează cât de ușor și rapid.**
 {% endhint %}
-
-## Ce altceva blochează arderea grăsimilor
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
-**Ierarhie:** alcool → somn → stres → insulină
-cronică → sedentarism. Rezolvă-le în această ordine.
+**Focus ierarhic:** alcool → somn → stres → insulină
+cronică → sedentarism.
 {% endhint %}

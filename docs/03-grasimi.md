@@ -159,18 +159,3 @@ Asta e motivul real pentru care efortul intens pe glicogen gol atacă mușchiul:
 grăsimea lipsește, ci pentru că grăsimea disponibilă e prea lentă, iar corpul are nevoie de o
 sursă la fel de rapidă ca glicogenul și singura alternativă rapidă e să descompună proteine.
 {% endhint %}
-
-## Unde se stochează grăsimea
-
-| Tip             | Unde                   | Pericol                                        | Pleacă               |
-| --------------- | ---------------------- | ---------------------------------------------- | -------------------- |
-| **Viscerală**   | În jurul organelor     | Foarte ridicat                                 | **Prima** la slăbit  |
-| **Subcutanată** | Sub piele              | Mai scăzut                                     | **Ultima** la slăbit |
-| **Ectopică**    | Ficat, pancreas, inimă | Semnal de alarmă (afectează funcția organului) | Timpuriu             |
-
-## De ce grăsimea abdominală pleacă ultima
-
-Adipocitele abdominale au **mai mulți receptori alfa**, care încetinesc lipoliza, și mai puțini
-receptori beta, care o pornesc. În practică, „frâna" este trasă mai puternic acolo.
-
-Nu poți forța zona cu exerciții locale, mitul _spot reduction_.

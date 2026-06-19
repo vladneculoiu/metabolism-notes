@@ -67,11 +67,6 @@ Măr întreg  → fibrele încetinesc absorbția → insulina crește lent  ✅
 Suc de mere → fără fibre → insulina crește brusc                   ❌
 ```
 
-**Test simplu:** _Aș putea mânca asta în forma sa naturală?_
-
-- Trestie de zahăr crudă → da, conține fibre
-- O linguriță de zahăr alb → pur, instant → rafinat
-
 ## Glicogenul: cele două depozite
 
 |                              | Glicogen hepatic (ficat)      | Glicogen muscular              |
@@ -99,6 +94,3 @@ Fiecare gustare repornește ciclul de insulină și întrerupe arderea grăsimii
 16:00 gustare   → insulină ridicată DIN NOU
 → corpul nu intră niciodată în modul ardere
 ```
-
-**Dacă ai nevoie de o gustare:** alege proteine + grăsimi (ouă, nuci, brânză). Ele nu cresc insulina
-agresiv și nu întrerup arderea la fel de mult ca zahărul.

@@ -49,7 +49,7 @@ hidratare, nu de grăsime reală. Grăsimea se schimbă lent, gradual.
 
 ## Apa și proteinele
 
-Digestia proteinelor produce **uree** produs rezidual de azot din deaminare, eliminat prin urină:
+Digestia proteinelor produce **uree**, produs rezidual de azot din deaminare, eliminat prin urină:
 
 ```
 Aminoacizi → deaminare → uree + energie

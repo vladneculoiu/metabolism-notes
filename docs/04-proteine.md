@@ -52,8 +52,8 @@ PROTEOLIZĂ MUSCULARĂ = catabolism ❌
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
-Asigură aminoacizi din dietă înainte ca pool-ul să
-se golească. De aceea **aportul constant pe parcursul zilei** contează mai mult decât un total mare
+Asigurarea aminoacizilor în dietă înainte ca pool-ul să
+se golească este importantă. De aceea **aportul constant pe parcursul zilei** contează mai mult decât un total mare
 dintr-o singură masă. 
 {% endhint %}
 
@@ -88,11 +88,11 @@ carbohidrați. De aceea o gustare proteică e mai puțin dăunătoare decât una
 | Situație                               | Risc proteoliză musculară             |
 | -------------------------------------- | ------------------------------------- |
 | Repaus, proteine suficiente            | Minim                                 |
-| Efort intens + glicogen **plin**       | Scăzut — glicogenul acoperă           |
-| Efort intens + glicogen **gol**        | **Ridicat** — corpul atacă mușchii ❌ |
+| Efort intens + glicogen **plin**       | Scăzut (glicogenul acoperă)           |
+| Efort intens + glicogen **gol**        | **Ridicat** (corpul atacă mușchii ❌) |
 | Post prelungit + proteine insuficiente | **Ridicat** ❌                        |
 | Deficit agresiv + proteine puține      | **Ridicat** ❌                        |
 
 {% hint style="warning" icon="head-side-brain" %} Repausul e mai sigur pentru mușchi decât efortul
-intens pe nemâncate. Efortul ușor/moderat pe nemâncate arde grăsime; efortul intens pe nemâncate
+intens pe nemâncate. Efortul ușor/moderat pe nemâncate arde grăsime. Efortul intens pe nemâncate
 poate ataca mușchii. {% endhint %}

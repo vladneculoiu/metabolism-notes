@@ -41,7 +41,7 @@ singurul care poate face asta. {% endhint %}
 
 |                          | Glicogen hepatic              | Glicogen muscular           |
 | ------------------------ | ----------------------------- | --------------------------- |
-| Capacitate               | Mică                          | Mare                        |
+| Capacitate               | Mică                          | Mai mare                    |
 | Pentru cine              | **Întreg corpul**             | Doar mușchiul propriu       |
 | Trimite glucoză în sânge | **Da** ✅                     | **Nu** ❌                   |
 | Se golește când          | Peste noapte, între mese      | În timpul efortului fizic   |
@@ -56,8 +56,7 @@ Glucoză în sânge după masă
         ↓
    ┌────┴────┐
    ↓         ↓
-FICAT     MUȘCHI
-rezervele se umplu în paralel, după cât de goale sunt
+FICAT     MUȘCHI (rezervele se umplu în paralel, după cât de goale sunt)
    │         │
    └────┬────┘
         ↓
@@ -68,8 +67,7 @@ rezervele se umplu în paralel, după cât de goale sunt
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
-Mitul "mai întâi ficatul, apoi mușchii" este
-greșit. Fiecare rezervă extrage glucoză independent. Mușchii goliți de efort trag mai agresiv.
+Fiecare rezervă extrage glucoză independent. Mușchii goliți de efort trag mai agresiv.
 Efortul activează transportorii GLUT4. Doar după ce **ambele** sunt pline, surplusul devine grăsime.
 {% endhint %}
 

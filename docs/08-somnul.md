@@ -21,8 +21,8 @@ Restul nopții:
 ```
 
 {% hint style="warning" icon="head-side-brain" %} Somnul este cea mai lungă fereastră naturală de
-ardere a grăsimii din zi. Este momentul când insulina la zero, hormonul de creștere maxim, cortizol
-minim în primele ore. {% endhint %}
+ardere a grăsimii din zi. Este momentul când insulina tinde către zero, hormonul de creștere este
+maxim și cortizol minim în primele ore. {% endhint %}
 
 ## Somnul și hormonii
 
@@ -36,10 +36,7 @@ Somnul reglează direct hormonii care controlează foamea, stocarea și arderea:
 | **Leptina** (sațietate)     | Nivel normal                   | Scăzută (mai puțină sațietate) |
 | **Hormon de creștere (GH)** | Eliberat masiv în somn profund | Scăzut                         |
 | **Testosteron**             | Produs majoritar noaptea       | Scăzut                         |
-
-{% hint style="warning" icon="head-side-brain" %} O perioadă de somn insuficient poate reduce
-testosteronul cu până la 10-15%. Direct relevant pentru masa musculară și arderea grăsimii
-abdominale. {% endhint %}
+| **Estrogen / Progesteron**  | Ciclu reglat normal            | Dereglare ciclu, agravare PMS  |
 
 ## Somnul prost blochează arderea grăsimilor
 
@@ -68,8 +65,11 @@ GH + testosteron + aminoacizi din dietă
    → sinteză proteică maximă în somn profund
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Antrenezi la sală _semnalul_. Dormi _construcția_.
-Fără somn suficient, antrenamentul stimulează, dar corpul nu construiește eficient. {% endhint %}
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+Antrenezi la sală _semnalul_. Dormi _construcția_.
+Fără somn suficient, antrenamentul stimulează, dar corpul nu construiește eficient. 
+{% endhint %}
 
 ## Ce strică arderea nocturnă
 
