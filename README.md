@@ -1,15 +1,14 @@
 # Welcome
 
-Acest ghid explică, în limbaj accesibil, ce se întâmplă în corp de la prima îmbucătură până la
-energie sau grăsime stocată. Pornește de la o întrebare simplă: **ce se întâmplă când mănânc?** și
-urmărește traseul complet: digestie, ardere, stocare, dar și rolul esențial al somnului și al apei
-în tot acest proces.
+Acesta este un ghid practic despre cum funcționează corpul, scris accesibil, ca să-ți construiești
+pe baza lui un plan funcțional pentru propriul corp. Pornește de la o întrebare simplă: **ce se
+întâmplă când mănânc?** și urmărește traseul complet: digestie, ardere, stocare, somn și apă.
 
 <!-- prettier-ignore -->
 {% hint style="info" icon="user-astronaut" %} 
-**Public**
+**Public de toate vârstele**
 
-Oricine vrea să înțeleagă _de ce_ o dietă funcționează sau eșuează, dincolo de reguli complexe.
+Oricine vrea să înțeleagă **de ce alimentația, somnul și sportul funcționează, nu doar ce să facă.**
 {% endhint %}
 
 ## Cuprins
