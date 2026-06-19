@@ -79,6 +79,87 @@ BETA-OXIDARE în mitocondrie → ATP
 Produse finale: CO₂ + apă
 ```
 
+## Unde ajung acizii grași eliberați
+
+Nu toate celulele folosesc acizii grași la fel. Mușchii și majoritatea organelor îi ard direct, iar
+creierul are nevoie de un ocol.
+
+```
+LIPOLIZA în adipocit
+   → Acizi grași + Glicerol
+        │
+        ├──→ MUȘCHI (repaus, efort ușor-moderat)
+        │       → beta-oxidare DIRECTĂ → ATP ✅
+        │
+        ├──→ ALTE ORGANE (inimă, rinichi)
+        │       → beta-oxidare DIRECTĂ → ATP ✅
+        │
+        └──→ FICAT (când glicogenul e epuizat)
+                → transformați în CETONE
+                    ↓
+                CREIER → ATP ✅
+                (singurul care are nevoie de acest ocol)
+```
+
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+Mușchii pot folosi acizii grași direct, la fel ca
+inima și majoritatea organelor, fără nicio conversie suplimentară. De aceea mușchiul arde
+predominant grăsime în repaus și efort ușor. Creierul însă nu poate folosi acizii grași ca atare.
+Așa că ficatul îi transformă în **cetone**, singura formă de combustibil din grăsime pe care
+creierul o poate accesa. Cetonele intră în joc doar când glicogenul e epuizat și corpul are nevoie
+de o sursă alternativă pentru creier.
+{% endhint %}
+
+## De ce mușchiul nu arde grăsime la efort intens
+
+Mușchiul **poate** folosi acizi grași oricând, dar la efort intens nu o face, pentru că procesul e
+prea lent pentru cererea de energie.
+
+```
+Beta-oxidarea (grăsime) = proces LENT
+   → multe etape, are nevoie de mult oxigen
+   → nu poate produce ATP suficient de repede
+
+Glicoliza (glicogen) = proces RAPID
+   → puține etape, poate funcționa și fără oxigen
+   → produce ATP exploziv, aproape instant
+```
+
+|                         | Beta-oxidare (grăsime)  | Glicoliză (glicogen)    |
+| ----------------------- | ----------------------- | ----------------------- |
+| Viteză de producere ATP | Lentă                   | Rapidă                  |
+| Necesită oxigen         | Da, mult                | Poate funcționa și fără |
+| Bun pentru              | Efort constant, moderat | Explozie, sprint        |
+
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %} 
+La sprint sau ridicări grele, mușchiul are nevoie de energie *acum*. Grăsimea e combustibilul mai „ieftin" pe termen lung, dar prea lentă pentru cerere imediată — așa că mușchiul folosește glicogenul.
+{% endhint %}
+
+### Dacă glicogenul se termină în timpul efortului intens
+
+```
+Efort intens + glicogen muscular EPUIZAT
+        ↓
+Mușchiul tot are nevoie de ATP rapid
+        ↓
+Grăsimea (beta-oxidare) e prea lentă pentru ritmul cerut
+        ↓
+Singura sursă rapidă rămasă: AMINOACIZI din proteine
+        ↓
+PROTEOLIZĂ MUSCULARĂ → corpul descompune propriul mușchi
+        ↓
+Aminoacizi → gluconeogeneză → glucoză → glicoliză → ATP
+```
+
+<!-- prettier-ignore -->
+{% hint style="warning" icon="head-side-brain" %}
+Asta e motivul real pentru care efortul intens pe glicogen gol atacă mușchiul: nu pentru că
+grăsimea lipsește, ci pentru că grăsimea disponibilă e prea lentă, iar corpul are nevoie de o
+sursă la fel de rapidă ca glicogenul — și singura alternativă rapidă e să descompună proteine.
+{% endhint %}
+
 ## Unde se stochează grăsimea
 
 | Tip             | Unde                   | Pericol                                        | Pleacă               |
