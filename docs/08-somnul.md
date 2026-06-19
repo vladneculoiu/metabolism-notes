@@ -4,7 +4,7 @@ _De ce somnul este la fel de important ca dieta și exercițiul fizic pentru com
 
 ## Ce se întâmplă metabolic în somn
 
-Somnul nu este o pauză metabolică — e momentul în care corpul face cea mai mare parte din reparație,
+Somnul nu este o pauză metabolică. E momentul în care corpul face cea mai mare parte din reparație,
 construcție musculară și ardere de grăsime:
 
 ```
@@ -21,8 +21,8 @@ Restul nopții:
 ```
 
 {% hint style="warning" icon="head-side-brain" %} Somnul este cea mai lungă fereastră naturală de
-ardere a grăsimii din zi — insulina la zero, hormon de creștere maxim, cortizol minim în primele
-ore. {% endhint %}
+ardere a grăsimii din zi. Este momentul când insulina la zero, hormonul de creștere maxim, cortizol
+minim în primele ore. {% endhint %}
 
 ## Somnul și hormonii
 
@@ -32,13 +32,13 @@ Somnul reglează direct hormonii care controlează foamea, stocarea și arderea:
 | --------------------------- | ------------------------------ | ------------------------------ |
 | **Insulina**                | Sensibilitate bună             | Rezistență crescută            |
 | **Cortizol**                | Scăzut în prima parte a nopții | Cronic ridicat                 |
-| **Grelina** (foame)         | Nivel normal                   | Crescută — mai multă foame     |
-| **Leptina** (sațietate)     | Nivel normal                   | Scăzută — mai puțină sațietate |
+| **Grelina** (foame)         | Nivel normal                   | Crescută (mai multă foame)     |
+| **Leptina** (sațietate)     | Nivel normal                   | Scăzută (mai puțină sațietate) |
 | **Hormon de creștere (GH)** | Eliberat masiv în somn profund | Scăzut                         |
 | **Testosteron**             | Produs majoritar noaptea       | Scăzut                         |
 
 {% hint style="warning" icon="head-side-brain" %} O perioadă de somn insuficient poate reduce
-testosteronul cu până la 10-15% — direct relevant pentru masa musculară și arderea grăsimii
+testosteronul cu până la 10-15%. Direct relevant pentru masa musculară și arderea grăsimii
 abdominale. {% endhint %}
 
 ## Somnul prost blochează arderea grăsimilor
@@ -68,23 +68,8 @@ GH + testosteron + aminoacizi din dietă
    → sinteză proteică maximă în somn profund
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Antrenezi la sală semnalul. Dormi construcția.
-Fără somn suficient, antrenamentul stimulează dar corpul nu construiește eficient. {% endhint %}
-
-## Somnul și grăsimea abdominală
-
-Cortizolul ridicat din somnul prost are un efect specific pe abdomen:
-
-```
-Cortizol cronic ridicat
-   → activează receptorii din adipocitele viscerale
-   → depunere preferențială pe abdomen
-   → grăsimea viscerală mai greu de mobilizat
-```
-
-{% hint style="warning" icon="head-side-brain" %} Somnul prost e una din cauzele principale ale
-burții "încăpățânate" — nu dieta singură, nu lipsa exercițiului, ci cortizolul cronic din recuperare
-insuficientă. {% endhint %}
+{% hint style="warning" icon="head-side-brain" %} Antrenezi la sală _semnalul_. Dormi _construcția_.
+Fără somn suficient, antrenamentul stimulează, dar corpul nu construiește eficient. {% endhint %}
 
 ## Ce strică arderea nocturnă
 
