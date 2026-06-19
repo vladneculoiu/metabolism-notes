@@ -11,9 +11,8 @@ Grăsime → beta-oxidare → ATP + CO₂ + APĂ
 Glucoză → glicoliză    → ATP + CO₂ + APĂ
 ```
 
-{% hint style="warning" icon="head-side-brain" %} Când pierzi grăsime, o parte din acea grăsime
-devine literalmente apă, eliminată prin urină, transpirație și respirație, plus CO₂ pe care îl
-expiri. {% endhint %}
+{% hint style="warning" icon="head-side-brain" %} Când pierzi grăsime, o parte devine apă (eliminată
+prin urină) și transpirație, iar restul devine CO₂, eliminat prin respirație. {% endhint %}
 
 ## Apa este necesară pentru arderea grăsimilor
 
