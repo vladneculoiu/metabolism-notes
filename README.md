@@ -1,8 +1,9 @@
 # Welcome
 
-Acesta este un ghid practic despre metabolismul macronutrienților, scris într-un limbaj accesibil.
-Pornește de la întrebări simple precum **_ce se întâmplă când mănânc?_** și construiește spre
-mecanisme concrete: insulina, glicogenul si lipoliza.
+Acest ghid explică, în limbaj accesibil, ce se întâmplă în corp de la prima îmbucătură până la
+energie sau grăsime stocată. Pornește de la o întrebare simplă: **ce se întâmplă când mănânc?** și
+urmărește traseul complet: digestie, ardere, stocare, dar și rolul esențial al somnului și al apei
+în tot acest proces.
 
 <!-- prettier-ignore -->
 {% hint style="info" icon="user-astronaut" %} 
