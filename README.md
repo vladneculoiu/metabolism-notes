@@ -1,4 +1,4 @@
-# Welcome
+# Hello
 
 Acesta este un ghid practic despre cum funcționează corpul, scris accesibil, ca să-ți construiești
 pe baza lui un plan funcțional pentru propriul corp. Pornește de la o întrebare simplă: **_ce se
@@ -32,20 +32,7 @@ Pentru probleme medicale consultați un medic specialist.
 | 07  | [Apă](docs/07-apa.md)                           | Rolul ei și de ce fluctuează greutatea       |
 | 08  | [Somnul](docs/08-somnul.md)                     | Cortizol, GH și fereastra de ardere nocturnă |
 
-## Cele 5 idei centrale
-
-1. **Insulina este comutatorul.** Ridicată = arderea grăsimii _stocate_ blocată. Scăzută = grăsimea
-   din depozite accesibilă. Corpul continuă să ardă energie în orice condiție — insulina decide
-   **din ce sursă.**
-2. **Deficitul caloric este regula #1 în procesul de slabire.** Insulina deschide ușa; deficitul
-   face corpul să treacă prin ea.
-3. **Proteinele sunt prioritatea**, mai ales în deficit. pentru a proteja mușchii.
-4. **Nu alegi de unde dispare grăsimea.** Genetica și hormonii decid.
-5. **Mișcarea, cantitatea, somnul și stresul** sunt cele patru pârghii reale. Mișcarea și cantitatea
-   controlează caloriile. Somnul și stresul controlează cortizolul care influențează direct unde se
-   depune și cât de greu pleacă grăsimea abdominală.
-
-## Referință rapidă
+## Referințe
 
 - [Glosar](reference/glosar.md) — toți termenii tehnici, alfabetic
 - [Procese metabolice](reference/procese.md) — tabelul complet al proceselor
