@@ -72,14 +72,14 @@ Corpul utilizează eficient o cantitate limitată de proteine per masă:
 
 ## Proteine și insulina
 
-Proteinele cresc insulina **moderat** — mai puțin decât carbohidrații, dar nu zero:
+Proteinele cresc insulina **moderat** mai puțin decât carbohidrații, dar nu zero:
 
 ```
 Carbohidrați → insulină ridicată, glucagon neschimbat → stocare
 Proteine     → insulină moderată + glucagon crescut   → echilibru
 ```
 
-Glucagonul compensează parțial efectul de stocare — grăsimea nu e blocată la fel de puternic ca după
+Glucagonul compensează parțial efectul de stocare. Grăsimea nu e blocată la fel de puternic ca după
 carbohidrați. De aceea o gustare proteică e mai puțin dăunătoare decât una zaharoasă, deși tot
 întrerupe fereastra de ardere a grăsimii stocate.
 

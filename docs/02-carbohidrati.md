@@ -29,7 +29,7 @@ Glucoza nu merge direct la stocare. Ordinea reală:
 
 | Prioritate | Destinație         | Cine o folosește                                |
 | ---------- | ------------------ | ----------------------------------------------- |
-| **#1**     | Energie imediată   | Creier, organe, întreținere celulară — non-stop |
+| **#1**     | Energie imediată   | Creier, organe, întreținere celulară non-stop   |
 | **#2**     | Reumplere glicogen | Ficat + mușchi, dacă există loc                 |
 | **#3**     | Grăsime            | Doar surplusul, după ce #1 și #2 sunt acoperite |
 

@@ -45,7 +45,7 @@ INSULINĂ SCĂZUTĂ:
 
 {% hint style="warning" icon="head-side-brain" %} Insulina pune lacăt pe adipocite. Cât timp
 insulina este ridicată, grăsimea stocată nu poate ieși. Corpul continuă să ardă energie, dar din
-glucoza disponibilă — nu din depozite. Pe parcursul zilei, deficitul caloric tot funcționează,
+glucoza disponibilă, nu din depozite. Pe parcursul zilei, deficitul caloric tot funcționează,
 deoarece insulina nu rămâne ridicată permanent. {% endhint %}
 
 ## Capcana zahăr + grăsime
@@ -134,7 +134,7 @@ Glicoliza (glicogen) = proces RAPID
 
 <!-- prettier-ignore -->
 {% hint style="warning" icon="head-side-brain" %} 
-La sprint sau ridicări grele, mușchiul are nevoie de energie *acum*. Grăsimea e combustibilul mai „ieftin" pe termen lung, dar prea lentă pentru cerere imediată — așa că mușchiul folosește glicogenul.
+La sprint sau ridicări grele, mușchiul are nevoie de energie *acum*. Grăsimea e combustibilul mai „ieftin" pe termen lung, dar prea lentă pentru cerere imediată, așa că mușchiul folosește glicogenul.
 {% endhint %}
 
 ### Dacă glicogenul se termină în timpul efortului intens
@@ -157,7 +157,7 @@ Aminoacizi → gluconeogeneză → glucoză → glicoliză → ATP
 {% hint style="warning" icon="head-side-brain" %}
 Asta e motivul real pentru care efortul intens pe glicogen gol atacă mușchiul: nu pentru că
 grăsimea lipsește, ci pentru că grăsimea disponibilă e prea lentă, iar corpul are nevoie de o
-sursă la fel de rapidă ca glicogenul — și singura alternativă rapidă e să descompună proteine.
+sursă la fel de rapidă ca glicogenul și singura alternativă rapidă e să descompună proteine.
 {% endhint %}
 
 ## Unde se stochează grăsimea
@@ -166,7 +166,7 @@ sursă la fel de rapidă ca glicogenul — și singura alternativă rapidă e s�
 | --------------- | ---------------------- | ---------------------------------------------- | -------------------- |
 | **Viscerală**   | În jurul organelor     | Foarte ridicat                                 | **Prima** la slăbit  |
 | **Subcutanată** | Sub piele              | Mai scăzut                                     | **Ultima** la slăbit |
-| **Ectopică**    | Ficat, pancreas, inimă | Semnal de alarmă — afectează funcția organului | Timpuriu             |
+| **Ectopică**    | Ficat, pancreas, inimă | Semnal de alarmă (afectează funcția organului) | Timpuriu             |
 
 ## De ce grăsimea abdominală pleacă ultima
 
