@@ -38,10 +38,7 @@ Glucoza nu merge direct la stocare. Ordinea reală:
 Corpul are un tampon zilnic de carbohidrați care pot fi 
 procesați fără a deveni grăsime: energia imediată + 
 reumplerea ficatului + reumplerea glicogenului muscular 
-(dacă efortul l-a consumat).
-
-Activitatea fizică crește semnificativ acest tampon.
-
+(dacă efortul l-a consumat). Activitatea fizică crește semnificativ acest tampon. 
 {% endhint %}
 
 ## Pancreas și ficat: cine face ce
@@ -103,5 +100,5 @@ Fiecare gustare repornește ciclul de insulină și întrerupe arderea grăsimii
 → corpul nu intră niciodată în modul ardere
 ```
 
-**Dacă ai nevoie de o gustare:** alege proteine + grăsimi (ouă, nuci, brânză) — nu cresc insulina
+**Dacă ai nevoie de o gustare:** alege proteine + grăsimi (ouă, nuci, brânză). Ele nu cresc insulina
 agresiv și nu întrerup arderea la fel de mult ca zahărul.
