@@ -5,11 +5,10 @@ pe baza lui un plan funcțional pentru propriul corp. Pornește de la o întreba
 întâmplă când mănânc?_** și urmărește traseul complet: digestie, ardere, stocare, somn și apă.
 
 <!-- prettier-ignore -->
-{% hint style="info" icon="user-astronaut" %} 
-**Public de toate vârstele**
-
-Oricine vrea să înțeleagă **de ce alimentația, somnul și sportul** funcționează, **nu doar ce să
-facă.** {% endhint %}
+{% hint style="info" icon="user-astronaut" %}
+Oricine vrea să înțeleagă **cum** funcționează alimentația, somnul și sportul și **de ce** contează
+să-ți înțelegi corpul 
+{% endhint %}
 
 ## Disclaimer
 
